@@ -37,6 +37,9 @@ Browse session repos by format below. Click a repo to get the code, demos, and s
 | Code | Session | Repo |
 |------|---------|------|
 | LTG122 | The Copilot Adoption Playbook Practical Steps To Get Started | [aitour27-LTG122-the-copilot-adoption-playbook-practical-steps-to-get-started](https://github.com/microsoft/aitour27-LTG122-the-copilot-adoption-playbook-practical-steps-to-get-started) |
+| LTG123 | *Name to be confirmed* | [aitour27-LTG123-name-to-be-confirmed](https://github.com/microsoft/aitour27-LTG123-name-to-be-confirmed) |
+| LTG152 | *Name to be confirmed* | [aitour27-LTG152-name-to-be-confirmed](https://github.com/microsoft/aitour27-LTG152-name-to-be-confirmed) |
+| LTG153 | *Name to be confirmed* | [aitour27-LTG153-name-to-be-confirmed](https://github.com/microsoft/aitour27-LTG153-name-to-be-confirmed) |
 | LTG161 | Show Don't Tell Helping Teams Discover The Value Of Copilot | [aitour27-LTG161-show-dont-tell-helping-teams-discover-the-value-of-copilot](https://github.com/microsoft/aitour27-LTG161-show-dont-tell-helping-teams-discover-the-value-of-copilot) |
 | LTG162 | From AI Pilots To Agentic Work Why Windows Matters More Than Ever | [aitour27-LTG162-from-ai-pilots-to-agentic-work-why-windows-matters-more-than-ever](https://github.com/microsoft/aitour27-LTG162-from-ai-pilots-to-agentic-work-why-windows-matters-more-than-ever) |
 | LTG163 | Scale Your Intelligence On Windows With Surface | [aitour27-LTG163-scale-your-intelligence-on-windows-with-surface](https://github.com/microsoft/aitour27-LTG163-scale-your-intelligence-on-windows-with-surface) |
@@ -63,7 +66,7 @@ Browse session repos by format below. Click a repo to get the code, demos, and s
 | ILL392 | Build Agentic AI Postgres Apps On Azure HorizonDB | [aitour27-ILL392-build-agentic-ai-postgres-apps-on-azure-horizondb](https://github.com/microsoft/aitour27-ILL392-build-agentic-ai-postgres-apps-on-azure-horizondb) |
 
 > [!NOTE]
-> This is a first pass at organizing the session repos into tables. A few sessions (e.g. LTG123, LTG152, LTG153) are still pending a final title and aren't listed yet. Presenter names will be added once confirmed — let us know if you'd rather reorganize by topic area instead of session format.
+> This is a first pass at organizing the session repos into tables, grouped by session format. A few sessions (LTG123, LTG152, LTG153) don't have a final title yet and are shown as "Name to be confirmed" until that's updated. Presenters aren't listed here since they rotate at each AI Tour stop.
 
 ### 📚 Continued Learning Resources
 
@@ -73,6 +76,7 @@ Browse session repos by format below. Click a repo to get the code, demos, and s
 | Microsoft Foundry Community Discord | [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/Pwpvf3TWaw)](https://aka.ms/MicrosoftFoundryDiscord-AITour27) | Connect with the Microsoft Foundry Community! |
 | Microsoft Foundry Developer Forum | [![Microsoft Foundry Developer Forum](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=adff2f&logoColor=fff)](https://aka.ms/MicrosoftFoundryForum-AITour27) | Join the Microsoft Foundry Developer Forum! |
 | Learn at AI Tour | [https://aka.ms/LearnAtAITour](https://aka.ms/LearnAtAITour) | Continue learning on Microsoft Learn |
+| Skilling at Microsoft | [Skilling-at-Microsoft.md](Skilling-at-Microsoft.md) | Global skilling programs and learning paths to keep growing after AI Tour |
 
 ## Responsible AI
 
