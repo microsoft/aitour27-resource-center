@@ -18,7 +18,6 @@ Browse session repos by conversation (topic) below. Click a repo to get the code
 ### Frontier
 
 #### AI in the flow of human ambition
-*ABS: Copilot*
 
 | Code | Format | Session | Repo |
 |------|--------|---------|------|
@@ -29,7 +28,6 @@ Browse session repos by conversation (topic) below. Click a repo to get the code
 | ILL224 | Instructor-Led Lab | See How Far One Agent Goes in Copilot Studio | [aitour27-ILL224-see-how-far-one-agent-goes-in-copilot-studio](https://github.com/microsoft/aitour27-ILL224-see-how-far-one-agent-goes-in-copilot-studio) |
 
 #### Ubiquitous Innovation
-*CAIP: Agent Platform*
 
 | Code | Format | Session | Repo |
 |------|--------|---------|------|
@@ -42,7 +40,6 @@ Browse session repos by conversation (topic) below. Click a repo to get the code
 | ILL335 | Instructor-Led Lab | Building & deploying AI agents with Microsoft Foundry | [aitour27-ILL335-building-deploying-ai-agents-with-microsoft-foundry](https://github.com/microsoft/aitour27-ILL335-building-deploying-ai-agents-with-microsoft-foundry) |
 
 #### Amplify your intelligence
-*CAIP: Microsoft IQ*
 
 | Code | Format | Session | Repo |
 |------|--------|---------|------|
@@ -53,7 +50,6 @@ Browse session repos by conversation (topic) below. Click a repo to get the code
 | ILL344 | Instructor-Led Lab | Turning data into agent-ready knowledge with Microsoft IQ | [aitour27-ILL344-turning-data-into-agent-ready-knowledge-with-microsoft-iq](https://github.com/microsoft/aitour27-ILL344-turning-data-into-agent-ready-knowledge-with-microsoft-iq) |
 
 #### Establish a trusted and secure platform for AI
-*Security: Security*
 
 | Code | Format | Session | Repo |
 |------|--------|---------|------|
@@ -65,7 +61,6 @@ Browse session repos by conversation (topic) below. Click a repo to get the code
 ### Core
 
 #### AI-ready productivity & security for every employee
-*ABS: Windows Ecosystem*
 
 | Code | Format | Session | Repo |
 |------|--------|---------|------|
@@ -75,7 +70,6 @@ Browse session repos by conversation (topic) below. Click a repo to get the code
 | BRK260 | Breakout | Build the trusted foundation to scale AI | [aitour27-BRK260-build-the-trusted-foundation-to-scale-ai](https://github.com/microsoft/aitour27-BRK260-build-the-trusted-foundation-to-scale-ai) |
 
 #### Agentify your business processes
-*ABS: Agentic Business Apps*
 
 | Code | Format | Session | Repo |
 |------|--------|---------|------|
@@ -83,7 +77,6 @@ Browse session repos by conversation (topic) below. Click a repo to get the code
 | BRK270 | Breakout | Transform business processes with AI | [aitour27-BRK270-transform-business-processes-with-ai](https://github.com/microsoft/aitour27-BRK270-transform-business-processes-with-ai) |
 
 #### Modernize with confidence
-*CAIP: Cloud & AI Platform*
 
 | Code | Format | Session | Repo |
 |------|--------|---------|------|
@@ -92,7 +85,6 @@ Browse session repos by conversation (topic) below. Click a repo to get the code
 | BRK280 | Breakout | From legacy to AI-ready with agentic modernization on Azure | [aitour27-BRK280-from-legacy-to-ai-ready-with-agentic-modernization-on-azure](https://github.com/microsoft/aitour27-BRK280-from-legacy-to-ai-ready-with-agentic-modernization-on-azure) |
 
 #### Build a unified, governed data and AI estate
-*CAIP: Data Platform*
 
 | Code | Format | Session | Repo |
 |------|--------|---------|------|
