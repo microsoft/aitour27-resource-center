@@ -11,6 +11,15 @@ Thanks for attending Microsoft AI Tour 2027!
 
 Recordings, code, and demos from all technical sessions at AI Tour are available from this repository. For beginners and experts, you can enhance your skill-building and stay engaged. Dive into the resources below to further your knowledge and apply what you've learned in practical scenarios.
 
+## AI Tour 2027 Conversations
+
+| FRONTIER | CORE |
+| --- | --- |
+| [AI in the flow of human ambition](#ai-in-the-flow-of-human-ambition) | [AI-ready productivity & security for every employee](#ai-ready-productivity--security-for-every-employee) |
+| [Ubiquitous Innovation](#ubiquitous-innovation) | [Agentify your business processes](#agentify-your-business-processes) |
+| [Amplify your intelligence](#amplify-your-intelligence) | [Modernize with confidence](#modernize-with-confidence) |
+| [Establish a trusted and secure platform for AI](#establish-a-trusted-and-secure-platform-for-ai) | [Build a unified, governed data and AI estate](#build-a-unified-governed-data-and-ai-estate) |
+
 ## Session Repositories
 
 Browse session repos by conversation (topic) below. Click a repo to get the code, demos, and slides for that session. **LTG** = Lightning Talk, **BRK** = Breakout, **ILL** = Instructor-Led Lab.
