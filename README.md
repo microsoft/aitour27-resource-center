@@ -120,7 +120,6 @@ These labs don't currently map to a conversation in the FY27 content framework:
 | AI Tour 2027 Resource Center | [https://aka.ms/aitour27-resource-center](https://aka.ms/aitour27-resource-center) | Links to all repos for AI Tour 27 sessions |
 | Microsoft Foundry Community Discord | [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/Pwpvf3TWaw)](https://aka.ms/MicrosoftFoundryDiscord-AITour27) | Connect with the Microsoft Foundry Community! |
 | Microsoft Foundry Developer Forum | [![Microsoft Foundry Developer Forum](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=adff2f&logoColor=fff)](https://aka.ms/MicrosoftFoundryForum-AITour27) | Join the Microsoft Foundry Developer Forum! |
-| Learn at AI Tour | [https://aka.ms/LearnAtAITour](https://aka.ms/LearnAtAITour) | Continue learning on Microsoft Learn |
 | Skilling at Microsoft | [Skilling-at-Microsoft.md](Skilling-at-Microsoft.md) | Global skilling programs and learning paths to keep growing after AI Tour |
 
 ## Responsible AI
