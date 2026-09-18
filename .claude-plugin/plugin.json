@@ -1,0 +1,14 @@
+{
+  "name": "microsoft-aitour",
+  "description": "Connect your project to the Microsoft AI Tour 2027 global session catalog - discover relevant sessions, get session content, code, and videos, and plan a prioritized session list from your development environment.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Microsoft"
+  },
+  "homepage": "https://github.com/microsoft/aitour27-resource-center",
+  "repository": "https://github.com/microsoft/aitour27-resource-center",
+  "keywords": ["microsoft", "ai tour", "aitour", "aitour27", "sessions", "events", "learn"],
+  "license": "MIT",
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}

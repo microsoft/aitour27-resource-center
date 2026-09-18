@@ -122,6 +122,42 @@ These labs don't currently map to a conversation in the FY27 content framework:
 | Microsoft Foundry Developer Forum | [![Microsoft Foundry Developer Forum](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=adff2f&logoColor=fff)](https://aka.ms/MicrosoftFoundryForum-AITour27) | Join the Microsoft Foundry Developer Forum! |
 | Skilling at Microsoft | [Skilling-at-Microsoft.md](Skilling-at-Microsoft.md) | Global skilling programs and learning paths to keep growing after AI Tour |
 
+## AI Tour Agent Skill
+
+This repo also packages an agent skill that connects your development
+environment to the **global AI Tour 2027 session catalog** - discover
+sessions relevant to your project or interests, get session content (code
+and video when available), scaffold a project from a session repo, and build
+a prioritized session list to check against city-specific availability at
+[aitour.microsoft.com](https://aitour.microsoft.com).
+
+It works without Node.js or npm - no `@microsoft/events-cli` install
+required. It reads the published AI Tour JSON catalog and this repo's
+content directly. (Optional: the Microsoft Learn MCP Server is used for
+documentation lookups when available.)
+
+### Supported Clients
+
+| Client | Configuration |
+|--------|---------------|
+| GitHub Copilot CLI | `/plugin install microsoft/aitour27-resource-center` then `/restart` |
+| VS Code | Open Extensions (Ctrl+Shift+X), search `@agentPlugins microsoft-aitour`, and install |
+| Visual Studio 2026 | Copy `skills/microsoft-aitour/` to a [supported skill location](https://learn.microsoft.com/visualstudio/ide/copilot-agent-skills) |
+| Claude Code | `/plugin marketplace add microsoft/aitour27-resource-center` then `/plugin install microsoft-aitour@microsoft-aitour-marketplace` |
+
+### Scope and limitations
+
+- **Global catalog, not a schedule:** The skill covers the full AI Tour
+  session set. It does not know which sessions run at your specific city
+  stop, or their date/time/room - check
+  [aitour.microsoft.com](https://aitour.microsoft.com) for that.
+- **Session identity:** Global codes (e.g. `BRK123`) and city-suffixed codes
+  (e.g. `BRK123-SP`, `BRK123-PAR`) refer to the same session for content and
+  interest matching.
+- **List, not a calendar:** The skill helps build an interest-prioritized
+  session shortlist and can export it, but it does not calculate or promise
+  freedom from city schedule conflicts.
+
 ## Responsible AI
 
 Microsoft is committed to helping our customers use our AI products responsibly, sharing our learnings, and building trust-based partnerships through tools like Transparency Notes and Impact Assessments. Many of these resources can be found at [https://aka.ms/RAI](https://aka.ms/RAI).
