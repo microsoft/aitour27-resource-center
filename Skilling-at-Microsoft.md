@@ -1,5 +1,5 @@
 <p align="center">
-<img src="img/banner-ai-tour-27.png" alt="Microsoft AI Tour 2027" width="100%"/>
+<img src="img/skilling-at-microsoft-banner.png" alt="Microsoft AI Tour 2027" width="100%"/>
 </p>
 
 # Skilling at Microsoft
