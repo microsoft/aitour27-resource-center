@@ -78,8 +78,6 @@ These labs don't currently map to a conversation in the FY27 content framework:
 | ILL110 | [From AI Spend to AI Strategy](https://github.com/microsoft/aitour27-ILL110-from-ai-spend-to-ai-strategy) |
 | ILL125 | [Turn Agent Ideas Into Business Value](https://github.com/microsoft/aitour27-ILL125-turn-agent-ideas-into-business-value) |
 
-> [!NOTE]
-> Grouped by conversation (topic) per the FY27 AI Tour Content Framework, with titles locked as of the 8/14/26 deck. Additional Sponsor, Field, and MVP-created Lightning Talks may be offered and are not yet reflected here. Presenters aren't listed since they rotate at each AI Tour stop.
 
 ### 📚 Continued Learning Resources
 
