@@ -62,15 +62,6 @@ Browse session repos by conversation (topic) below. Click a repo to get the code
 
 ### Core
 
-#### AI-ready productivity & security for every employee
-
-| Code | Repo |
-|------|------|
-| BRK260 | [Build the trusted foundation to scale AI](https://github.com/microsoft/aitour27-BRK260-build-the-trusted-foundation-to-scale-ai) |
-| LTG161 | [Show, Don't Tell: Helping Teams Discover the Value of Copilot](https://github.com/microsoft/aitour27-LTG161-show-dont-tell-helping-teams-discover-the-value-of-copilot) |
-| LTG162 | [From AI Pilots to Agentic Work: Why Windows Matters More Than Ever](https://github.com/microsoft/aitour27-LTG162-from-ai-pilots-to-agentic-work-why-windows-matters-more-than-ever) |
-| LTG163 | [Scale your intelligence on Windows with Surface](https://github.com/microsoft/aitour27-LTG163-scale-your-intelligence-on-windows-with-surface) |
-
 #### Agentify your business processes
 
 | Code | Repo |
