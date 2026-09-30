@@ -51,15 +51,6 @@ Browse session repos by conversation (topic) below. Click a repo to get the code
 | LTG242 | [Knowledge retrieval for AI agents with Foundry IQ](https://github.com/microsoft/aitour27-LTG242-knowledge-retrieval-for-ai-agents-with-foundry-iq) |
 | LTG243 | [Fabric IQ: From rows to reliable answers](https://github.com/microsoft/aitour27-LTG243-fabric-iq-from-rows-to-reliable-answers) |
 
-#### Establish a trusted and secure platform for AI
-
-| Code | Repo |
-|------|------|
-| BRK250 | [Securing the Frontier: Defense in the Age of Agentic AI](https://github.com/microsoft/aitour27-BRK250-securing-the-frontier-defense-in-the-age-of-agentic-ai) |
-| BRK251 | [Zero Trust for AI: From Architecture to Real-World Implementation](https://github.com/microsoft/aitour27-BRK251-zero-trust-for-ai-from-architecture-to-real-world-implementation) |
-| LTG152 | [Protect continuously and proactively with multi-agent defense](https://github.com/microsoft/aitour27-LTG152-name-to-be-confirmed) |
-| LTG153 | [Find and fix vulnerabilities faster with multi-model agentic security](https://github.com/microsoft/aitour27-LTG153-name-to-be-confirmed) |
-
 ### Core
 
 #### Agentify your business processes
