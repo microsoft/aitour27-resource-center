@@ -41,7 +41,6 @@ Browse session repos by conversation (topic) below. Click a repo to get the code
 | ILL234 | [Coding with Agents in GitHub Copilot CLI](https://github.com/microsoft/aitour27-ILL234-coding-with-agents-in-github-copilot-cli) |
 | ILL335 | [Building & deploying AI agents with Microsoft Foundry](https://github.com/microsoft/aitour27-ILL335-building-deploying-ai-agents-with-microsoft-foundry) |
 | LTG232 | [Agent development beyond Hello World](https://github.com/microsoft/aitour27-LTG232-agent-development-beyond-hello-world) |
-| LTG233 | [Automating business processes with Copilot Studio](https://github.com/microsoft/aitour27-LTG233-automating-business-processes-with-copilot-studio) |
 | LTG236 | [GitHub Copilot App: Enabling agentic workflow](https://github.com/microsoft/aitour27-LTG236-github-copilot-app-enabling-agentic-workflow) |
 
 #### Amplify your intelligence
