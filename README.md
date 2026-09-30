@@ -69,15 +69,6 @@ Browse session repos by conversation (topic) below. Click a repo to get the code
 | ILL392 | [Build agentic AI Postgres apps on Azure HorizonDB](https://github.com/microsoft/aitour27-ILL392-build-agentic-ai-postgres-apps-on-azure-horizondb) |
 | LTG291 | [Turn your data into production apps with Rayfin](https://github.com/microsoft/aitour27-LTG291-turn-your-data-into-production-apps-with-rayfin) |
 
-### Additional sessions
-
-These labs don't currently map to a conversation in the FY27 content framework:
-
-| Code | Repo |
-|------|------|
-| ILL110 | [From AI Spend to AI Strategy](https://github.com/microsoft/aitour27-ILL110-from-ai-spend-to-ai-strategy) |
-| ILL125 | [Turn Agent Ideas Into Business Value](https://github.com/microsoft/aitour27-ILL125-turn-agent-ideas-into-business-value) |
-
 
 ### 📚 Continued Learning Resources
 
