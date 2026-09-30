@@ -47,7 +47,6 @@ Browse session repos by conversation (topic) below. Click a repo to get the code
 | Code | Repo |
 |------|------|
 | BRK240 | [Building context-aware agents with Microsoft IQ](https://github.com/microsoft/aitour27-BRK240-building-context-aware-agents-with-microsoft-iq) |
-| BRK241 | [Work IQ: add workplace intelligence to your agents](https://github.com/microsoft/aitour27-BRK241-work-iq-add-workplace-intelligence-to-your-agents) |
 | ILL344 | [Turning data into agent-ready knowledge with Microsoft IQ](https://github.com/microsoft/aitour27-ILL344-turning-data-into-agent-ready-knowledge-with-microsoft-iq) |
 | LTG242 | [Knowledge retrieval for AI agents with Foundry IQ](https://github.com/microsoft/aitour27-LTG242-knowledge-retrieval-for-ai-agents-with-foundry-iq) |
 | LTG243 | [Fabric IQ: From rows to reliable answers](https://github.com/microsoft/aitour27-LTG243-fabric-iq-from-rows-to-reliable-answers) |
