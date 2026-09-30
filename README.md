@@ -30,11 +30,8 @@ Browse session repos by conversation (topic) below. Click a repo to get the code
 
 | Code | Repo |
 |------|------|
-| BRK120 | [The New Frontier of Agentic Work](https://github.com/microsoft/aitour27-BRK120-the-new-frontier-of-agentic-work) |
 | BRK221 | [From Assistant to Autopilot: The AI Spectrum](https://github.com/microsoft/aitour27-BRK221-from-assistant-to-autopilot-the-ai-spectrum) |
 | ILL224 | [See How Far One Agent Goes in Copilot Studio](https://github.com/microsoft/aitour27-ILL224-see-how-far-one-agent-goes-in-copilot-studio) |
-| LTG122 | [The Copilot Adoption Playbook: Practical Steps to Get Started](https://github.com/microsoft/aitour27-LTG122-the-copilot-adoption-playbook-practical-steps-to-get-started) |
-| LTG123 | [*Name to be confirmed*](https://github.com/microsoft/aitour27-LTG123-name-to-be-confirmed) |
 
 #### Ubiquitous Innovation
 
