@@ -53,13 +53,6 @@ Browse session repos by conversation (topic) below. Click a repo to get the code
 
 ### Core
 
-#### Agentify your business processes
-
-| Code | Repo |
-|------|------|
-| BRK270 | [Transform business processes with AI](https://github.com/microsoft/aitour27-BRK270-transform-business-processes-with-ai) |
-| LTG271 | [Dynamics 365 in your flow of work with Copilot Cowork](https://github.com/microsoft/aitour27-LTG271-dynamics-365-in-your-flow-of-work-with-copilot-cowork) |
-
 #### Modernize with confidence
 
 | Code | Repo |
