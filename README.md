@@ -30,11 +30,7 @@ Browse session repos by conversation (topic) below. Click a repo to get the code
 
 | Code | Repo |
 |------|------|
-| BRK120 | [The New Frontier of Agentic Work](https://github.com/microsoft/aitour27-BRK120-the-new-frontier-of-agentic-work) |
-| BRK221 | [From Assistant to Autopilot: The AI Spectrum](https://github.com/microsoft/aitour27-BRK221-from-assistant-to-autopilot-the-ai-spectrum) |
 | ILL224 | [See How Far One Agent Goes in Copilot Studio](https://github.com/microsoft/aitour27-ILL224-see-how-far-one-agent-goes-in-copilot-studio) |
-| LTG122 | [The Copilot Adoption Playbook: Practical Steps to Get Started](https://github.com/microsoft/aitour27-LTG122-the-copilot-adoption-playbook-practical-steps-to-get-started) |
-| LTG123 | [*Name to be confirmed*](https://github.com/microsoft/aitour27-LTG123-name-to-be-confirmed) |
 
 #### Ubiquitous Innovation
 
@@ -45,45 +41,17 @@ Browse session repos by conversation (topic) below. Click a repo to get the code
 | ILL234 | [Coding with Agents in GitHub Copilot CLI](https://github.com/microsoft/aitour27-ILL234-coding-with-agents-in-github-copilot-cli) |
 | ILL335 | [Building & deploying AI agents with Microsoft Foundry](https://github.com/microsoft/aitour27-ILL335-building-deploying-ai-agents-with-microsoft-foundry) |
 | LTG232 | [Agent development beyond Hello World](https://github.com/microsoft/aitour27-LTG232-agent-development-beyond-hello-world) |
-| LTG233 | [Automating business processes with Copilot Studio](https://github.com/microsoft/aitour27-LTG233-automating-business-processes-with-copilot-studio) |
-| LTG236 | [GitHub Copilot App: Enabling agentic workflow](https://github.com/microsoft/aitour27-LTG236-github-copilot-app-enabling-agentic-workflow) |
 
 #### Amplify your intelligence
 
 | Code | Repo |
 |------|------|
 | BRK240 | [Building context-aware agents with Microsoft IQ](https://github.com/microsoft/aitour27-BRK240-building-context-aware-agents-with-microsoft-iq) |
-| BRK241 | [Work IQ: add workplace intelligence to your agents](https://github.com/microsoft/aitour27-BRK241-work-iq-add-workplace-intelligence-to-your-agents) |
 | ILL344 | [Turning data into agent-ready knowledge with Microsoft IQ](https://github.com/microsoft/aitour27-ILL344-turning-data-into-agent-ready-knowledge-with-microsoft-iq) |
 | LTG242 | [Knowledge retrieval for AI agents with Foundry IQ](https://github.com/microsoft/aitour27-LTG242-knowledge-retrieval-for-ai-agents-with-foundry-iq) |
 | LTG243 | [Fabric IQ: From rows to reliable answers](https://github.com/microsoft/aitour27-LTG243-fabric-iq-from-rows-to-reliable-answers) |
 
-#### Establish a trusted and secure platform for AI
-
-| Code | Repo |
-|------|------|
-| BRK250 | [Securing the Frontier: Defense in the Age of Agentic AI](https://github.com/microsoft/aitour27-BRK250-securing-the-frontier-defense-in-the-age-of-agentic-ai) |
-| BRK251 | [Zero Trust for AI: From Architecture to Real-World Implementation](https://github.com/microsoft/aitour27-BRK251-zero-trust-for-ai-from-architecture-to-real-world-implementation) |
-| LTG152 | [Protect continuously and proactively with multi-agent defense](https://github.com/microsoft/aitour27-LTG152-name-to-be-confirmed) |
-| LTG153 | [Find and fix vulnerabilities faster with multi-model agentic security](https://github.com/microsoft/aitour27-LTG153-name-to-be-confirmed) |
-
 ### Core
-
-#### AI-ready productivity & security for every employee
-
-| Code | Repo |
-|------|------|
-| BRK260 | [Build the trusted foundation to scale AI](https://github.com/microsoft/aitour27-BRK260-build-the-trusted-foundation-to-scale-ai) |
-| LTG161 | [Show, Don't Tell: Helping Teams Discover the Value of Copilot](https://github.com/microsoft/aitour27-LTG161-show-dont-tell-helping-teams-discover-the-value-of-copilot) |
-| LTG162 | [From AI Pilots to Agentic Work: Why Windows Matters More Than Ever](https://github.com/microsoft/aitour27-LTG162-from-ai-pilots-to-agentic-work-why-windows-matters-more-than-ever) |
-| LTG163 | [Scale your intelligence on Windows with Surface](https://github.com/microsoft/aitour27-LTG163-scale-your-intelligence-on-windows-with-surface) |
-
-#### Agentify your business processes
-
-| Code | Repo |
-|------|------|
-| BRK270 | [Transform business processes with AI](https://github.com/microsoft/aitour27-BRK270-transform-business-processes-with-ai) |
-| LTG271 | [Dynamics 365 in your flow of work with Copilot Cowork](https://github.com/microsoft/aitour27-LTG271-dynamics-365-in-your-flow-of-work-with-copilot-cowork) |
 
 #### Modernize with confidence
 
@@ -101,17 +69,6 @@ Browse session repos by conversation (topic) below. Click a repo to get the code
 | ILL392 | [Build agentic AI Postgres apps on Azure HorizonDB](https://github.com/microsoft/aitour27-ILL392-build-agentic-ai-postgres-apps-on-azure-horizondb) |
 | LTG291 | [Turn your data into production apps with Rayfin](https://github.com/microsoft/aitour27-LTG291-turn-your-data-into-production-apps-with-rayfin) |
 
-### Additional sessions
-
-These labs don't currently map to a conversation in the FY27 content framework:
-
-| Code | Repo |
-|------|------|
-| ILL110 | [From AI Spend to AI Strategy](https://github.com/microsoft/aitour27-ILL110-from-ai-spend-to-ai-strategy) |
-| ILL125 | [Turn Agent Ideas Into Business Value](https://github.com/microsoft/aitour27-ILL125-turn-agent-ideas-into-business-value) |
-
-> [!NOTE]
-> Grouped by conversation (topic) per the FY27 AI Tour Content Framework, with titles locked as of the 8/14/26 deck. Additional Sponsor, Field, and MVP-created Lightning Talks may be offered and are not yet reflected here. Presenters aren't listed since they rotate at each AI Tour stop.
 
 ### 📚 Continued Learning Resources
 
@@ -120,7 +77,7 @@ These labs don't currently map to a conversation in the FY27 content framework:
 | AI Tour 2027 Resource Center | [https://aka.ms/aitour27-resource-center](https://aka.ms/aitour27-resource-center) | Links to all repos for AI Tour 27 sessions |
 | Microsoft Foundry Community Discord | [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/Pwpvf3TWaw)](https://aka.ms/MicrosoftFoundryDiscord-AITour27) | Connect with the Microsoft Foundry Community! |
 | Microsoft Foundry Developer Forum | [![Microsoft Foundry Developer Forum](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=adff2f&logoColor=fff)](https://aka.ms/MicrosoftFoundryForum-AITour27) | Join the Microsoft Foundry Developer Forum! |
-| Skilling at Microsoft | [Skilling-at-Microsoft.md](Skilling-at-Microsoft.md) | Global skilling programs and learning paths to keep growing after AI Tour |
+| Skilling at Microsoft | [Skilling-at-Microsoft.md](Skilling-at-Microsoft.md) | Skilling and learning paths to keep growing after AI Tour |
 
 ## Responsible AI
 
