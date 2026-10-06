@@ -19,13 +19,14 @@ sessions, not the complete conference schedule.
 
 ## Session catalog
 
-Read the repository's `session-catalog.json` when available. Otherwise fetch:
+Always fetch the catalog from this aka.ms URL:
 
 ```text
-https://raw.githubusercontent.com/microsoft/aitour27-resource-center/main/session-catalog.json
+https://aka.ms/aitour2027-session-info
 ```
 
-Read it once per conversation and reuse it. If it cannot be fetched or its
+The aka.ms link should resolve directly to the public raw JSON file. Read the
+catalog once per conversation and reuse it. If it cannot be fetched or its
 shape is unexpected, explain that session information is unavailable and send
 the attendee to https://aitour.microsoft.com/ rather than guessing.
 

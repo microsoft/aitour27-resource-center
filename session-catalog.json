@@ -1,0 +1,3674 @@
+{
+  "schema_version": 1,
+  "event_id": "aitour27",
+  "event_name": "AI Tour 2027",
+  "generated_at": "2026-10-03T00:27:51.207041+00:00",
+  "selection": {
+    "session_types": [
+      "BRK",
+      "ILL",
+      "LTG"
+    ],
+    "coverage": "Technical sessions with at least one city assignment",
+    "repository_links": "Include only aka.ms links for repositories recorded as public",
+    "recording_links": "Include only when a short link is verified live and redirects to YouTube"
+  },
+  "cities": [
+    {
+      "id": "singapore",
+      "name": "Singapore",
+      "event_date": "2026-10-12",
+      "session_codes": [
+        "BRK101",
+        "BRK102",
+        "BRK103",
+        "BRK104",
+        "BRK106",
+        "BRK110",
+        "BRK112",
+        "BRK114",
+        "BRK116",
+        "BRK120",
+        "BRK221",
+        "BRK231",
+        "BRK240",
+        "BRK241",
+        "BRK250",
+        "BRK251",
+        "BRK260",
+        "BRK270",
+        "BRK280",
+        "BRK330",
+        "BRK390",
+        "ILL125",
+        "ILL224",
+        "ILL234",
+        "ILL335",
+        "ILL344",
+        "ILL392",
+        "LTG100",
+        "LTG109",
+        "LTG110",
+        "LTG112",
+        "LTG114",
+        "LTG115",
+        "LTG116",
+        "LTG119",
+        "LTG122",
+        "LTG152",
+        "LTG153",
+        "LTG161",
+        "LTG162",
+        "LTG163",
+        "LTG232",
+        "LTG233",
+        "LTG236",
+        "LTG242",
+        "LTG243",
+        "LTG271",
+        "LTG281",
+        "LTG282",
+        "LTG291"
+      ],
+      "session_mapping_status": "available"
+    },
+    {
+      "id": "paris",
+      "name": "Paris",
+      "event_date": "2026-10-20",
+      "session_codes": [
+        "BRK103",
+        "BRK105",
+        "BRK106",
+        "BRK108",
+        "BRK112",
+        "BRK114",
+        "BRK116",
+        "BRK118",
+        "BRK120",
+        "BRK221",
+        "BRK250",
+        "BRK260",
+        "BRK280",
+        "ILL224",
+        "ILL335",
+        "ILL344",
+        "LTG102",
+        "LTG110",
+        "LTG112",
+        "LTG114",
+        "LTG115",
+        "LTG116",
+        "LTG119",
+        "LTG122",
+        "LTG152",
+        "LTG153",
+        "LTG161",
+        "LTG162",
+        "LTG163",
+        "LTG232",
+        "LTG233",
+        "LTG236",
+        "LTG242",
+        "LTG243",
+        "LTG271",
+        "LTG281",
+        "LTG282",
+        "LTG291"
+      ],
+      "session_mapping_status": "available"
+    },
+    {
+      "id": "london",
+      "name": "London",
+      "event_date": "2026-10-21",
+      "session_codes": [
+        "BRK100",
+        "BRK103",
+        "BRK108",
+        "BRK110",
+        "BRK112",
+        "BRK114",
+        "BRK116",
+        "BRK120",
+        "BRK221",
+        "BRK231",
+        "BRK240",
+        "BRK241",
+        "BRK250",
+        "BRK251",
+        "BRK260",
+        "BRK270",
+        "BRK280",
+        "BRK330",
+        "BRK390",
+        "ILL110",
+        "ILL125",
+        "ILL224",
+        "ILL234",
+        "ILL335",
+        "ILL344",
+        "ILL392",
+        "LTG107",
+        "LTG109",
+        "LTG110",
+        "LTG112",
+        "LTG114",
+        "LTG115",
+        "LTG116",
+        "LTG122",
+        "LTG152",
+        "LTG153",
+        "LTG161",
+        "LTG162",
+        "LTG163",
+        "LTG232",
+        "LTG233",
+        "LTG236",
+        "LTG242",
+        "LTG243",
+        "LTG271",
+        "LTG281",
+        "LTG282",
+        "LTG291"
+      ],
+      "session_mapping_status": "available"
+    },
+    {
+      "id": "cologne",
+      "name": "Cologne",
+      "event_date": "2026-10-22",
+      "session_codes": [
+        "BRK103",
+        "BRK105",
+        "BRK106",
+        "BRK108",
+        "BRK110",
+        "BRK112",
+        "BRK114",
+        "BRK116",
+        "BRK120",
+        "BRK199",
+        "BRK221",
+        "BRK231",
+        "BRK240",
+        "BRK241",
+        "BRK250",
+        "BRK251",
+        "BRK260",
+        "BRK270",
+        "BRK280",
+        "BRK330",
+        "BRK390",
+        "ILL110",
+        "ILL125",
+        "ILL224",
+        "ILL234",
+        "ILL335",
+        "ILL344",
+        "ILL392",
+        "LTG102",
+        "LTG106",
+        "LTG110",
+        "LTG112",
+        "LTG114",
+        "LTG115",
+        "LTG116",
+        "LTG122",
+        "LTG152",
+        "LTG153",
+        "LTG161",
+        "LTG162",
+        "LTG163",
+        "LTG232",
+        "LTG233",
+        "LTG236",
+        "LTG242",
+        "LTG243",
+        "LTG271",
+        "LTG281",
+        "LTG282",
+        "LTG291"
+      ],
+      "session_mapping_status": "available"
+    },
+    {
+      "id": "philadelphia",
+      "name": "Philadelphia",
+      "event_date": "2026-10-22",
+      "session_codes": [
+        "BRK103",
+        "BRK104",
+        "BRK110",
+        "BRK112",
+        "BRK118",
+        "BRK120",
+        "BRK221",
+        "BRK231",
+        "BRK240",
+        "BRK250",
+        "BRK251",
+        "BRK260",
+        "BRK330",
+        "ILL110",
+        "ILL125",
+        "ILL234",
+        "LTG105",
+        "LTG109",
+        "LTG114",
+        "LTG115",
+        "LTG152",
+        "LTG162",
+        "LTG232",
+        "LTG233",
+        "LTG242",
+        "LTG243",
+        "LTG271",
+        "LTG281",
+        "LTG282",
+        "LTG291"
+      ],
+      "session_mapping_status": "available"
+    },
+    {
+      "id": "mexico-city",
+      "name": "Mexico City",
+      "event_date": "2026-10-29",
+      "session_codes": [
+        "BRK103",
+        "BRK108",
+        "BRK112",
+        "BRK114",
+        "BRK118",
+        "BRK120",
+        "BRK221",
+        "BRK240",
+        "BRK250",
+        "BRK251",
+        "BRK260",
+        "BRK280",
+        "BRK390",
+        "ILL125",
+        "ILL224",
+        "ILL234",
+        "ILL335",
+        "ILL344",
+        "ILL392",
+        "LTG112",
+        "LTG114",
+        "LTG115",
+        "LTG116",
+        "LTG119",
+        "LTG122",
+        "LTG152",
+        "LTG153",
+        "LTG161",
+        "LTG162",
+        "LTG232",
+        "LTG233",
+        "LTG236",
+        "LTG242",
+        "LTG243",
+        "LTG271",
+        "LTG281",
+        "LTG282",
+        "LTG291"
+      ],
+      "session_mapping_status": "available"
+    },
+    {
+      "id": "dubai",
+      "name": "Dubai",
+      "event_date": "2026-11-11",
+      "session_codes": [
+        "BRK103",
+        "BRK104",
+        "BRK108",
+        "BRK112",
+        "BRK116",
+        "BRK118",
+        "BRK120",
+        "BRK221",
+        "BRK240",
+        "BRK251",
+        "ILL125",
+        "ILL234",
+        "LTG116",
+        "LTG119",
+        "LTG122",
+        "LTG152",
+        "LTG153",
+        "LTG161",
+        "LTG162",
+        "LTG232",
+        "LTG233",
+        "LTG236",
+        "LTG242",
+        "LTG243",
+        "LTG271",
+        "LTG281",
+        "LTG282",
+        "LTG291"
+      ],
+      "session_mapping_status": "available"
+    },
+    {
+      "id": "seattle",
+      "name": "Seattle",
+      "event_date": "2026-12-09",
+      "session_codes": [
+        "BRK101",
+        "BRK103",
+        "BRK105",
+        "BRK112",
+        "BRK120",
+        "BRK241",
+        "BRK250",
+        "BRK270",
+        "BRK280",
+        "BRK330",
+        "ILL125",
+        "ILL224",
+        "ILL234",
+        "ILL335",
+        "ILL344",
+        "ILL392",
+        "LTG106",
+        "LTG112",
+        "LTG114",
+        "LTG115",
+        "LTG122",
+        "LTG152",
+        "LTG153",
+        "LTG161",
+        "LTG162",
+        "LTG232",
+        "LTG233",
+        "LTG236",
+        "LTG242",
+        "LTG243",
+        "LTG271",
+        "LTG281",
+        "LTG282",
+        "LTG291"
+      ],
+      "session_mapping_status": "available"
+    },
+    {
+      "id": "utrecht",
+      "name": "Utrecht",
+      "event_date": "2026-12-10",
+      "session_codes": [
+        "BRK103",
+        "BRK104",
+        "BRK106",
+        "BRK108",
+        "BRK110",
+        "BRK112",
+        "BRK120",
+        "BRK221",
+        "BRK241",
+        "BRK250",
+        "BRK260",
+        "BRK270",
+        "BRK280",
+        "BRK330",
+        "BRK390",
+        "ILL125",
+        "ILL224",
+        "ILL234",
+        "ILL335",
+        "ILL344",
+        "ILL392",
+        "LTG101",
+        "LTG102",
+        "LTG110",
+        "LTG112",
+        "LTG114",
+        "LTG115",
+        "LTG116",
+        "LTG122",
+        "LTG152",
+        "LTG153",
+        "LTG161",
+        "LTG162",
+        "LTG232",
+        "LTG233",
+        "LTG236",
+        "LTG242",
+        "LTG243",
+        "LTG271",
+        "LTG281",
+        "LTG282",
+        "LTG291"
+      ],
+      "session_mapping_status": "available"
+    },
+    {
+      "id": "toronto",
+      "name": "Toronto",
+      "event_date": "2027-01-13",
+      "session_codes": [],
+      "session_mapping_status": "not_yet_mapped"
+    },
+    {
+      "id": "taipei",
+      "name": "Taipei",
+      "event_date": "2027-01-20",
+      "session_codes": [
+        "BRK103",
+        "BRK106",
+        "BRK108",
+        "BRK112",
+        "BRK118",
+        "BRK120",
+        "BRK221",
+        "BRK231",
+        "BRK250",
+        "BRK251",
+        "BRK270",
+        "BRK330",
+        "BRK390",
+        "ILL224",
+        "ILL344",
+        "ILL392",
+        "LTG115",
+        "LTG119",
+        "LTG122",
+        "LTG152",
+        "LTG161",
+        "LTG233",
+        "LTG236",
+        "LTG242",
+        "LTG243",
+        "LTG281"
+      ],
+      "session_mapping_status": "available"
+    },
+    {
+      "id": "chicago",
+      "name": "Chicago",
+      "event_date": "2027-02-02",
+      "session_codes": [],
+      "session_mapping_status": "not_yet_mapped"
+    },
+    {
+      "id": "sydney",
+      "name": "Sydney",
+      "event_date": "2027-02-04",
+      "session_codes": [],
+      "session_mapping_status": "not_yet_mapped"
+    },
+    {
+      "id": "mumbai",
+      "name": "Mumbai",
+      "event_date": "2027-02-10",
+      "session_codes": [],
+      "session_mapping_status": "not_yet_mapped"
+    },
+    {
+      "id": "joburg",
+      "name": "Joburg",
+      "event_date": "2027-02-10",
+      "session_codes": [],
+      "session_mapping_status": "not_yet_mapped"
+    },
+    {
+      "id": "bengaluru",
+      "name": "Bengaluru",
+      "event_date": "2027-02-15",
+      "session_codes": [],
+      "session_mapping_status": "not_yet_mapped"
+    },
+    {
+      "id": "milan",
+      "name": "Milan",
+      "event_date": "2027-02-18",
+      "session_codes": [],
+      "session_mapping_status": "not_yet_mapped"
+    },
+    {
+      "id": "shanghai",
+      "name": "Shanghai",
+      "event_date": "2027-03-16",
+      "session_codes": [],
+      "session_mapping_status": "not_yet_mapped"
+    },
+    {
+      "id": "stockholm",
+      "name": "Stockholm",
+      "event_date": "2027-03-17",
+      "session_codes": [],
+      "session_mapping_status": "not_yet_mapped"
+    },
+    {
+      "id": "new-york",
+      "name": "New York",
+      "event_date": "2027-03-18",
+      "session_codes": [],
+      "session_mapping_status": "not_yet_mapped"
+    },
+    {
+      "id": "sao-paulo",
+      "name": "Sao Paulo",
+      "event_date": "2027-03-24",
+      "session_codes": [],
+      "session_mapping_status": "not_yet_mapped"
+    },
+    {
+      "id": "riyadh",
+      "name": "Riyadh",
+      "event_date": "2027-04-07",
+      "session_codes": [],
+      "session_mapping_status": "not_yet_mapped"
+    },
+    {
+      "id": "seoul",
+      "name": "Seoul",
+      "event_date": "2027-04-14",
+      "session_codes": [],
+      "session_mapping_status": "not_yet_mapped"
+    },
+    {
+      "id": "tokyo",
+      "name": "Tokyo",
+      "event_date": "2027-04-15",
+      "session_codes": [],
+      "session_mapping_status": "not_yet_mapped"
+    },
+    {
+      "id": "zurich",
+      "name": "Zurich",
+      "event_date": "2027-04-15",
+      "session_codes": [],
+      "session_mapping_status": "not_yet_mapped"
+    },
+    {
+      "id": "jakarta",
+      "name": "Jakarta",
+      "event_date": "2027-04-22",
+      "session_codes": [],
+      "session_mapping_status": "not_yet_mapped"
+    },
+    {
+      "id": "miami",
+      "name": "Miami",
+      "event_date": "2027-04-28",
+      "session_codes": [],
+      "session_mapping_status": "not_yet_mapped"
+    },
+    {
+      "id": "copenhagen",
+      "name": "Copenhagen",
+      "event_date": "2027-04-29",
+      "session_codes": [],
+      "session_mapping_status": "not_yet_mapped"
+    },
+    {
+      "id": "brussels",
+      "name": "Brussels",
+      "event_date": "2027-05-13",
+      "session_codes": [],
+      "session_mapping_status": "not_yet_mapped"
+    },
+    {
+      "id": "montreal",
+      "name": "Montreal",
+      "event_date": "2027-05-25",
+      "session_codes": [],
+      "session_mapping_status": "not_yet_mapped"
+    },
+    {
+      "id": "tel-aviv",
+      "name": "Tel Aviv",
+      "event_date": "2027-06-02",
+      "session_codes": [],
+      "session_mapping_status": "not_yet_mapped"
+    },
+    {
+      "id": "houston",
+      "name": "Houston",
+      "event_date": "2027-06-02",
+      "session_codes": [],
+      "session_mapping_status": "not_yet_mapped"
+    },
+    {
+      "id": "madrid",
+      "name": "Madrid",
+      "event_date": "2027-06-15",
+      "session_codes": [],
+      "session_mapping_status": "not_yet_mapped"
+    },
+    {
+      "id": "atlanta",
+      "name": "Atlanta",
+      "event_date": "2027-06-15",
+      "session_codes": [],
+      "session_mapping_status": "not_yet_mapped"
+    },
+    {
+      "id": "osaka",
+      "name": "Osaka",
+      "event_date": "2027-06-24",
+      "session_codes": [],
+      "session_mapping_status": "not_yet_mapped"
+    }
+  ],
+  "sessions": [
+    {
+      "sessionCode": "BRK100",
+      "title": "AI and the future of defense & intelligence",
+      "description": "See how AI is transforming defense and intelligence operations across the mission lifecycle, from headquarters planning and cyber defense to secure collaboration, unified command and control, and agentic human-machine teaming at the mission edge.",
+      "sessionType": {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      },
+      "topic": [
+        {
+          "displayValue": "Industry",
+          "logicalValue": "Industry"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "london"
+      ],
+      "slide_localizations": [],
+      "repository": null
+    },
+    {
+      "sessionCode": "BRK101",
+      "title": "From AI pilots to governed AI at scale in education",
+      "description": "AI is everywhere-but impact is uneven. With over 90% of students, educators, and leaders already using AI, this session shows how institutions move from pilots to governed, scalable AI across advising, research, and operations-with clear next steps.",
+      "sessionType": {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      },
+      "topic": [
+        {
+          "displayValue": "Industry",
+          "logicalValue": "Industry"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "singapore",
+        "seattle"
+      ],
+      "slide_localizations": [],
+      "repository": null
+    },
+    {
+      "sessionCode": "BRK102",
+      "title": "Accelerating energy intelligence",
+      "description": "Industrial AI is unlocking new possibilities. Explore how Energy & Resources leaders are turning operational data into intelligence for faster decisions, stronger reliability, greater productivity, safer operations, and resilience.",
+      "sessionType": {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      },
+      "topic": [
+        {
+          "displayValue": "Industry",
+          "logicalValue": "Industry"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "singapore"
+      ],
+      "slide_localizations": [],
+      "repository": null
+    },
+    {
+      "sessionCode": "BRK103",
+      "title": "Intelligence at scale: Financial services",
+      "description": "Explore how agentic AI is reshaping financial services by accelerating workflows, insights, and decisions across payments, lending, compliance, underwriting, and client service-enabled by trusted governance and secure platform architecture.",
+      "sessionType": {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      },
+      "topic": [
+        {
+          "displayValue": "Industry",
+          "logicalValue": "Industry"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "singapore",
+        "paris",
+        "london",
+        "cologne",
+        "philadelphia",
+        "mexico-city",
+        "dubai",
+        "seattle",
+        "utrecht",
+        "taipei"
+      ],
+      "slide_localizations": [],
+      "repository": null
+    },
+    {
+      "sessionCode": "BRK104",
+      "title": "The future of government, built on trusted AI",
+      "description": "Governments worldwide are adopting AI to meet rising public expectations. Hear how government leaders use Microsoft AI to drive better outcomes, from faster services to sharper decisions across the mission, with security and responsible AI, through customer and partner stories.",
+      "sessionType": {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      },
+      "topic": [
+        {
+          "displayValue": "Industry",
+          "logicalValue": "Industry"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "singapore",
+        "philadelphia",
+        "dubai",
+        "utrecht"
+      ],
+      "slide_localizations": [],
+      "repository": null
+    },
+    {
+      "sessionCode": "BRK105",
+      "title": "AI for better health",
+      "description": "AI for Better Health aims to help people live healthier by using agentic AI to transform how care is discovered, delivered, and accessed-accelerating breakthroughs, improving experiences, and advancing health equity.",
+      "sessionType": {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      },
+      "topic": [
+        {
+          "displayValue": "Industry",
+          "logicalValue": "Industry"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "paris",
+        "cologne",
+        "seattle"
+      ],
+      "slide_localizations": [],
+      "repository": null
+    },
+    {
+      "sessionCode": "BRK106",
+      "title": "Industrial intelligence unlocked",
+      "description": "Agentic AI drives an unprecedented convergence of automation, digitalization, and industrial software. The result: Systems that don't just respond but instead create a customer-proven agentic advantage across the entire value chain.",
+      "sessionType": {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      },
+      "topic": [
+        {
+          "displayValue": "Industry",
+          "logicalValue": "Industry"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "singapore",
+        "paris",
+        "cologne",
+        "utrecht",
+        "taipei"
+      ],
+      "slide_localizations": [],
+      "repository": null
+    },
+    {
+      "sessionCode": "BRK108",
+      "title": "Maximize return on intelligence in retail and CG",
+      "description": "Explore how agentic AI empowers retail and consumer goods teams to increase efficiency, enhance consumer experiences, and grow the bottom line. Join us to learn how agents can help you translate your proprietary intelligence into competitive advantage.",
+      "sessionType": {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      },
+      "topic": [
+        {
+          "displayValue": "Industry",
+          "logicalValue": "Industry"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "paris",
+        "london",
+        "cologne",
+        "mexico-city",
+        "dubai",
+        "utrecht",
+        "taipei"
+      ],
+      "slide_localizations": [],
+      "repository": null
+    },
+    {
+      "sessionCode": "BRK110",
+      "title": "Your Frontier Transformation Roadmap: From AI Strategy to Execution",
+      "description": "AI success is increasingly an execution challenge, not a technology challenge. This session unpacks the five drivers of Frontier Transformation and how leading organizations coordinate them. A live customer panel shares where their AI effort stalled, what changed, and the results that followed. You'll leave able to name the single constraint holding back your AI return - with guidance to remove it.",
+      "sessionType": {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      },
+      "topic": [
+        {
+          "displayValue": "Frontier Transformation",
+          "logicalValue": "Frontier Transformation"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "singapore",
+        "london",
+        "cologne",
+        "philadelphia",
+        "utrecht"
+      ],
+      "slide_localizations": [],
+      "repository": null
+    },
+    {
+      "sessionCode": "BRK112",
+      "title": "Turning AI into Outcomes",
+      "description": "Learn how to turn AI innovation into business outcomes. Microsoft shares lessons from its own experience as Customer Zero, alongside customer examples-applying AI across functions, embedding it in workflows, and delivering measurable business outcomes at scale.",
+      "sessionType": {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      },
+      "topic": [
+        {
+          "displayValue": "Frontier Transformation",
+          "logicalValue": "Frontier Transformation"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "singapore",
+        "paris",
+        "london",
+        "cologne",
+        "philadelphia",
+        "mexico-city",
+        "dubai",
+        "seattle",
+        "utrecht",
+        "taipei"
+      ],
+      "slide_localizations": [],
+      "repository": null
+    },
+    {
+      "sessionCode": "BRK114",
+      "title": "Empowering AI adoption through skills development",
+      "description": "Ready to stop fearing AI and start leading with it? Discover how Microsoft is building AI-ready teams through skills-first development-and why human skills matter as much as technical expertise. Learn how one organization empowered employees with the right skills, accelerated AI adoption, and unlocked measurable business impact.",
+      "sessionType": {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      },
+      "topic": [
+        {
+          "displayValue": "AI Skill Building",
+          "logicalValue": "AI Skill Building"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "singapore",
+        "paris",
+        "london",
+        "cologne",
+        "mexico-city"
+      ],
+      "slide_localizations": [],
+      "repository": null
+    },
+    {
+      "sessionCode": "BRK116",
+      "title": "Delivering Sovereignty in the Age of AI",
+      "description": "Learn how Microsoft Sovereign Cloud helps organizations address policy and governance, sovereign AI, cloud operator access restrictions, data residency and confidentiality, and resilience requirements across public, private, and partner solutions.",
+      "sessionType": {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      },
+      "topic": [
+        {
+          "displayValue": "Cloud & AI Platform",
+          "logicalValue": "Cloud & AI Platform"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "singapore",
+        "paris",
+        "london",
+        "cologne",
+        "dubai"
+      ],
+      "slide_localizations": [],
+      "repository": null
+    },
+    {
+      "sessionCode": "BRK118",
+      "title": "Success on the Frontier",
+      "description": "You're under pressure to move from pilots to measurable impact fast; these organizations already have.  A customer panel will describe their success implementing Frontier AI by sharing what worked, what didn't, and the return on investment patterns to copy.",
+      "sessionType": {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      },
+      "topic": [
+        {
+          "displayValue": "Frontier Transformation",
+          "logicalValue": "Frontier Transformation"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "paris",
+        "philadelphia",
+        "mexico-city",
+        "dubai",
+        "taipei"
+      ],
+      "slide_localizations": [],
+      "repository": null
+    },
+    {
+      "sessionCode": "BRK120",
+      "title": "The New Frontier of Agentic Work",
+      "description": "AI is changing how work gets done. Leading organizations are moving from assistants to agents that plan, decide, and act. Discover the Frontier Firm model, Copilot innovations, and the path to securely scale agent-powered transformation.",
+      "sessionType": {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      },
+      "topic": [
+        {
+          "displayValue": "Copilot",
+          "logicalValue": "Copilot"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "singapore",
+        "paris",
+        "london",
+        "cologne",
+        "philadelphia",
+        "mexico-city",
+        "dubai",
+        "seattle",
+        "utrecht",
+        "taipei"
+      ],
+      "slide_localizations": [],
+      "repository": null
+    },
+    {
+      "sessionCode": "BRK199",
+      "title": "Engineering the AI-defined vehicle",
+      "description": "Learn how AI is reshaping automotive engineering from requirements through validation. Hear how OEMs and suppliers use intelligent engineering agents to accelerate development, optimize design, and deliver software-defined vehicles faster.",
+      "sessionType": {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      },
+      "topic": [
+        {
+          "displayValue": "Industry",
+          "logicalValue": "Industry"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "cologne"
+      ],
+      "slide_localizations": [],
+      "repository": null
+    },
+    {
+      "sessionCode": "BRK221",
+      "title": "From Assistant to Autopilot: The AI Spectrum",
+      "description": "Organizations are expanding from assistants to delegates and autopilots that support increasingly complex work. Discover where Copilot chat, Cowork, and other innovations fit, and how to extend them with Copilot Studio and A365 to scale AI-powered transformation.",
+      "sessionType": {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      },
+      "topic": [
+        {
+          "displayValue": "Copilot",
+          "logicalValue": "Copilot"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "singapore",
+        "paris",
+        "london",
+        "cologne",
+        "philadelphia",
+        "mexico-city",
+        "dubai",
+        "utrecht",
+        "taipei"
+      ],
+      "slide_localizations": [],
+      "repository": null
+    },
+    {
+      "sessionCode": "BRK231",
+      "title": "Trusted AI at scale: Foundry to Agent 365",
+      "description": "Learn how Microsoft Foundry, GitHub Copilot, Copilot Studio, and Agent365 work together to help organizations build, operationalize, govern, and scale AI agents across the enterprise with security, control, and trust.",
+      "sessionType": {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      },
+      "topic": [
+        {
+          "displayValue": "Agent Platform",
+          "logicalValue": "Agent Platform"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [
+        {
+          "displayValue": "Microsoft Copilot Studio",
+          "logicalValue": "Microsoft Copilot Studio"
+        },
+        {
+          "displayValue": "Microsoft Foundry",
+          "logicalValue": "Microsoft Foundry"
+        },
+        {
+          "displayValue": "Foundry IQ",
+          "logicalValue": "Foundry IQ"
+        },
+        {
+          "displayValue": "Microsoft Agent 365",
+          "logicalValue": "Microsoft Agent 365"
+        },
+        {
+          "displayValue": "Microsoft Purview",
+          "logicalValue": "Microsoft Purview"
+        }
+      ],
+      "tags": [],
+      "city_ids": [
+        "singapore",
+        "london",
+        "cologne",
+        "philadelphia",
+        "taipei"
+      ],
+      "slide_localizations": [],
+      "repository": {
+        "url": "https://aka.ms/aitour27/BRK231"
+      },
+      "developerStack": {
+        "notes": "Portal-based demonstrations; no application source or dependency manifests. An empty language list does not mean the session lacks developer relevance."
+      },
+      "recording_url": "https://aka.ms/aitour27/brk231/youtube"
+    },
+    {
+      "sessionCode": "BRK240",
+      "title": "Building context-aware agents with Microsoft IQ",
+      "description": "AI agents are only as smart as the knowledge they can reach. Learn to build context-aware agents with Microsoft IQ-the enterprise intelligence layer that grounds agents in your org's context across Work IQ, Fabric IQ, Foundry IQ, and Web IQ.",
+      "sessionType": {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      },
+      "topic": [
+        {
+          "displayValue": "Microsoft IQ",
+          "logicalValue": "Microsoft IQ"
+        }
+      ],
+      "programmingLanguages": [
+        {
+          "displayValue": "Python",
+          "logicalValue": "Python"
+        },
+        {
+          "displayValue": "DAX",
+          "logicalValue": "DAX"
+        },
+        {
+          "displayValue": "Power Query M",
+          "logicalValue": "Power Query M"
+        }
+      ],
+      "product": [
+        {
+          "displayValue": "Microsoft Foundry",
+          "logicalValue": "Microsoft Foundry"
+        },
+        {
+          "displayValue": "Azure OpenAI Responses API",
+          "logicalValue": "Azure OpenAI Responses API"
+        },
+        {
+          "displayValue": "Microsoft Agent Framework",
+          "logicalValue": "Microsoft Agent Framework"
+        },
+        {
+          "displayValue": "Microsoft 365 Agents SDK",
+          "logicalValue": "Microsoft 365 Agents SDK"
+        },
+        {
+          "displayValue": "Microsoft Agent 365",
+          "logicalValue": "Microsoft Agent 365"
+        },
+        {
+          "displayValue": "Foundry IQ",
+          "logicalValue": "Foundry IQ"
+        },
+        {
+          "displayValue": "Fabric IQ",
+          "logicalValue": "Fabric IQ"
+        },
+        {
+          "displayValue": "Work IQ",
+          "logicalValue": "Work IQ"
+        },
+        {
+          "displayValue": "Web IQ",
+          "logicalValue": "Web IQ"
+        },
+        {
+          "displayValue": "Model Context Protocol",
+          "logicalValue": "Model Context Protocol"
+        },
+        {
+          "displayValue": "Microsoft Fabric",
+          "logicalValue": "Microsoft Fabric"
+        },
+        {
+          "displayValue": "OneLake",
+          "logicalValue": "OneLake"
+        },
+        {
+          "displayValue": "Power BI",
+          "logicalValue": "Power BI"
+        },
+        {
+          "displayValue": "Azure AI Search",
+          "logicalValue": "Azure AI Search"
+        },
+        {
+          "displayValue": "Microsoft Entra ID",
+          "logicalValue": "Microsoft Entra ID"
+        },
+        {
+          "displayValue": "Microsoft Teams",
+          "logicalValue": "Microsoft Teams"
+        },
+        {
+          "displayValue": "Azure Monitor Application Insights",
+          "logicalValue": "Azure Monitor Application Insights"
+        },
+        {
+          "displayValue": "OpenTelemetry",
+          "logicalValue": "OpenTelemetry"
+        },
+        {
+          "displayValue": "aiohttp",
+          "logicalValue": "aiohttp"
+        },
+        {
+          "displayValue": "HTTPX",
+          "logicalValue": "HTTPX"
+        },
+        {
+          "displayValue": "Pydantic",
+          "logicalValue": "Pydantic"
+        }
+      ],
+      "tags": [
+        {
+          "displayValue": "microsoft-agents-hosting-aiohttp",
+          "logicalValue": "microsoft-agents-hosting-aiohttp"
+        },
+        {
+          "displayValue": "microsoft-agents-hosting-core",
+          "logicalValue": "microsoft-agents-hosting-core"
+        },
+        {
+          "displayValue": "microsoft-agents-authentication-msal",
+          "logicalValue": "microsoft-agents-authentication-msal"
+        },
+        {
+          "displayValue": "microsoft-agents-activity",
+          "logicalValue": "microsoft-agents-activity"
+        },
+        {
+          "displayValue": "microsoft_agents_a365_observability_core",
+          "logicalValue": "microsoft_agents_a365_observability_core"
+        },
+        {
+          "displayValue": "microsoft_agents_a365_runtime",
+          "logicalValue": "microsoft_agents_a365_runtime"
+        },
+        {
+          "displayValue": "microsoft_agents_a365_notifications",
+          "logicalValue": "microsoft_agents_a365_notifications"
+        },
+        {
+          "displayValue": "azure-identity",
+          "logicalValue": "azure-identity"
+        },
+        {
+          "displayValue": "azure-monitor-opentelemetry",
+          "logicalValue": "azure-monitor-opentelemetry"
+        },
+        {
+          "displayValue": "aiohttp",
+          "logicalValue": "aiohttp"
+        },
+        {
+          "displayValue": "httpx",
+          "logicalValue": "httpx"
+        },
+        {
+          "displayValue": "pydantic",
+          "logicalValue": "pydantic"
+        },
+        {
+          "displayValue": "agent-framework-foundry",
+          "logicalValue": "agent-framework-foundry"
+        },
+        {
+          "displayValue": "agent-framework-foundry-hosting",
+          "logicalValue": "agent-framework-foundry-hosting"
+        },
+        {
+          "displayValue": "mcp",
+          "logicalValue": "mcp"
+        },
+        {
+          "displayValue": "azure-search-documents",
+          "logicalValue": "azure-search-documents"
+        },
+        {
+          "displayValue": "microsoft-fabric-api",
+          "logicalValue": "microsoft-fabric-api"
+        }
+      ],
+      "city_ids": [
+        "singapore",
+        "london",
+        "cologne",
+        "philadelphia",
+        "mexico-city",
+        "dubai"
+      ],
+      "slide_localizations": [],
+      "repository": {
+        "url": "https://aka.ms/aitour27/BRK240"
+      },
+      "developerStack": {
+        "notes": "Separate Python implementations use the Agents SDK and Agent Framework; they are not one mandatory stack. DAX and Power Query M occur in the Fabric semantic model. Bicep and PowerShell are provisioning tools; HTML/CSS and document-generation tooling are secondary."
+      },
+      "recording_url": "https://aka.ms/aitour27/brk240/youtube"
+    },
+    {
+      "sessionCode": "BRK241",
+      "title": "Building Smarter Agents with Work IQ",
+      "description": "Learn how to build agents with Work IQ to incorporate organizational knowledge they need to operate effectively, surfacing the processes, relationships, and operational context behind everyday work.",
+      "sessionType": {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      },
+      "topic": [
+        {
+          "displayValue": "Microsoft IQ",
+          "logicalValue": "Microsoft IQ"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "singapore",
+        "london",
+        "cologne",
+        "seattle",
+        "utrecht"
+      ],
+      "slide_localizations": [],
+      "repository": null
+    },
+    {
+      "sessionCode": "BRK250",
+      "title": "Securing the Frontier: Defense in the Age of Agentic AI",
+      "description": "We've entered Frontier Transformation, where AI reshapes organizations and scales impact. As attacks evolve and agents proliferate, trust must start with security. Learn to secure AI, defend with AI, and get ready for AI while safely enabling growth.",
+      "sessionType": {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      },
+      "topic": [
+        {
+          "displayValue": "Security",
+          "logicalValue": "Security"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "singapore",
+        "paris",
+        "london",
+        "cologne",
+        "philadelphia",
+        "mexico-city",
+        "seattle",
+        "utrecht",
+        "taipei"
+      ],
+      "slide_localizations": [],
+      "repository": null
+    },
+    {
+      "sessionCode": "BRK251",
+      "title": "Zero Trust for AI: From Architecture to Real-World Implementation",
+      "description": "You can't scale AI on foundations you haven't secured. Walk the four jobs that make an estate AI-ready-improve posture, secure access, protect data, defend against threats-and use Zero Trust for AI to find and close the gaps first.",
+      "sessionType": {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      },
+      "topic": [
+        {
+          "displayValue": "Security",
+          "logicalValue": "Security"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "singapore",
+        "london",
+        "cologne",
+        "philadelphia",
+        "mexico-city",
+        "dubai",
+        "taipei"
+      ],
+      "slide_localizations": [],
+      "repository": null
+    },
+    {
+      "sessionCode": "BRK260",
+      "title": "Build the Trusted Foundation to Scale AI",
+      "description": "Scaling AI starts with trust. In this session, explore how organizations can build a secure, AI-ready foundation to move from isolated experimentation to confident adoption at scale. Through a real-world scenario, we'll show how data protection and governance help keep innovation moving while reducing oversharing and visibility gaps.",
+      "sessionType": {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      },
+      "topic": [
+        {
+          "displayValue": "Windows Ecosystem",
+          "logicalValue": "Windows Ecosystem"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "singapore",
+        "paris",
+        "london",
+        "cologne",
+        "philadelphia",
+        "mexico-city",
+        "utrecht"
+      ],
+      "slide_localizations": [],
+      "repository": null
+    },
+    {
+      "sessionCode": "BRK270",
+      "title": "Transform business processes with AI",
+      "description": "Learn how Dynamics 365, Power Platform, and Copilot Studio transform business processes with AI. Use agents to automate work, connect business data to action, and help teams move faster, lower costs, and improve outcomes across the organization.",
+      "sessionType": {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      },
+      "topic": [
+        {
+          "displayValue": "Agentic Business Applications",
+          "logicalValue": "Agentic Business Applications"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "singapore",
+        "london",
+        "cologne",
+        "seattle",
+        "utrecht",
+        "taipei"
+      ],
+      "slide_localizations": [],
+      "repository": null
+    },
+    {
+      "sessionCode": "BRK280",
+      "title": "From legacy to AI-ready with agentic modernization on Azure",
+      "description": "Legacy apps are the biggest barrier to AI innovation. See how Azure Copilot migration agent and GitHub Copilot modernization agent work together to discover apps, assess codebases, map dependencies, plan upgrades, and refactor safely.",
+      "sessionType": {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      },
+      "topic": [
+        {
+          "displayValue": "Cloud & AI Platform",
+          "logicalValue": "Cloud & AI Platform"
+        }
+      ],
+      "programmingLanguages": [
+        {
+          "displayValue": "Java",
+          "logicalValue": "Java"
+        },
+        {
+          "displayValue": "C#",
+          "logicalValue": "C#"
+        },
+        {
+          "displayValue": "SQL",
+          "logicalValue": "SQL"
+        },
+        {
+          "displayValue": "HTML",
+          "logicalValue": "HTML"
+        },
+        {
+          "displayValue": "CSS",
+          "logicalValue": "CSS"
+        }
+      ],
+      "product": [
+        {
+          "displayValue": "Java 8",
+          "logicalValue": "Java 8"
+        },
+        {
+          "displayValue": ".NET Framework 4.8",
+          "logicalValue": ".NET Framework 4.8"
+        },
+        {
+          "displayValue": "Windows Communication Foundation",
+          "logicalValue": "Windows Communication Foundation"
+        },
+        {
+          "displayValue": "ASP.NET Web Forms",
+          "logicalValue": "ASP.NET Web Forms"
+        },
+        {
+          "displayValue": "Apache Struts 1",
+          "logicalValue": "Apache Struts 1"
+        },
+        {
+          "displayValue": "Java Servlet API",
+          "logicalValue": "Java Servlet API"
+        },
+        {
+          "displayValue": "JavaServer Pages",
+          "logicalValue": "JavaServer Pages"
+        },
+        {
+          "displayValue": "JSTL",
+          "logicalValue": "JSTL"
+        },
+        {
+          "displayValue": "Microsoft SQL Server",
+          "logicalValue": "Microsoft SQL Server"
+        },
+        {
+          "displayValue": "Gradle",
+          "logicalValue": "Gradle"
+        },
+        {
+          "displayValue": "Apache Tomcat",
+          "logicalValue": "Apache Tomcat"
+        },
+        {
+          "displayValue": "Docker",
+          "logicalValue": "Docker"
+        },
+        {
+          "displayValue": "GitHub Copilot modernization",
+          "logicalValue": "GitHub Copilot modernization"
+        },
+        {
+          "displayValue": "Modernize CLI",
+          "logicalValue": "Modernize CLI"
+        }
+      ],
+      "tags": [
+        {
+          "displayValue": "javax.servlet:javax.servlet-api",
+          "logicalValue": "javax.servlet:javax.servlet-api"
+        },
+        {
+          "displayValue": "org.apache.struts:struts-core",
+          "logicalValue": "org.apache.struts:struts-core"
+        },
+        {
+          "displayValue": "org.apache.struts:struts-taglib",
+          "logicalValue": "org.apache.struts:struts-taglib"
+        },
+        {
+          "displayValue": "javax.servlet:jstl",
+          "logicalValue": "javax.servlet:jstl"
+        },
+        {
+          "displayValue": "com.microsoft.sqlserver:mssql-jdbc",
+          "logicalValue": "com.microsoft.sqlserver:mssql-jdbc"
+        },
+        {
+          "displayValue": "org.json:json",
+          "logicalValue": "org.json:json"
+        }
+      ],
+      "city_ids": [
+        "singapore",
+        "paris",
+        "london",
+        "cologne",
+        "mexico-city",
+        "seattle",
+        "utrecht"
+      ],
+      "slide_localizations": [],
+      "repository": {
+        "url": "https://aka.ms/aitour27/BRK280"
+      },
+      "developerStack": {
+        "notes": "The delivered source is legacy Java and .NET. Java 21, Spring Boot 3, and .NET 10 are modernization targets, not the checked-in application stack."
+      },
+      "recording_url": "https://aka.ms/aitour27/brk280/youtube"
+    },
+    {
+      "sessionCode": "BRK330",
+      "title": "Optimize agents with Microsoft Foundry & GitHub Copilot",
+      "description": "You need agents to meet cost & quality targets, but model choices & costs keep shifting. Watch GitHub Copilot run a hill-climbing loop on a travel concierge built on Microsoft Foundry. Build a repeatable model optimization playbook for your AI agents.",
+      "sessionType": {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      },
+      "topic": [
+        {
+          "displayValue": "Agent Platform",
+          "logicalValue": "Agent Platform"
+        }
+      ],
+      "programmingLanguages": [
+        {
+          "displayValue": "Python",
+          "logicalValue": "Python"
+        },
+        {
+          "displayValue": "JavaScript",
+          "logicalValue": "JavaScript"
+        },
+        {
+          "displayValue": "HTML",
+          "logicalValue": "HTML"
+        },
+        {
+          "displayValue": "CSS",
+          "logicalValue": "CSS"
+        }
+      ],
+      "product": [
+        {
+          "displayValue": "Microsoft Foundry",
+          "logicalValue": "Microsoft Foundry"
+        },
+        {
+          "displayValue": "Microsoft Foundry Agent Service",
+          "logicalValue": "Microsoft Foundry Agent Service"
+        },
+        {
+          "displayValue": "Microsoft Agent Framework",
+          "logicalValue": "Microsoft Agent Framework"
+        },
+        {
+          "displayValue": "Microsoft Foundry Model Router",
+          "logicalValue": "Microsoft Foundry Model Router"
+        },
+        {
+          "displayValue": "Microsoft Foundry Agent Optimizer",
+          "logicalValue": "Microsoft Foundry Agent Optimizer"
+        },
+        {
+          "displayValue": "GitHub Copilot",
+          "logicalValue": "GitHub Copilot"
+        },
+        {
+          "displayValue": "Model Context Protocol",
+          "logicalValue": "Model Context Protocol"
+        },
+        {
+          "displayValue": "FastAPI",
+          "logicalValue": "FastAPI"
+        },
+        {
+          "displayValue": "Jinja2",
+          "logicalValue": "Jinja2"
+        },
+        {
+          "displayValue": "Uvicorn",
+          "logicalValue": "Uvicorn"
+        },
+        {
+          "displayValue": "Azure Container Apps",
+          "logicalValue": "Azure Container Apps"
+        },
+        {
+          "displayValue": "Azure Container Registry",
+          "logicalValue": "Azure Container Registry"
+        },
+        {
+          "displayValue": "Azure Monitor Application Insights",
+          "logicalValue": "Azure Monitor Application Insights"
+        },
+        {
+          "displayValue": "OpenTelemetry",
+          "logicalValue": "OpenTelemetry"
+        },
+        {
+          "displayValue": "Azure Developer CLI",
+          "logicalValue": "Azure Developer CLI"
+        },
+        {
+          "displayValue": "Docker",
+          "logicalValue": "Docker"
+        }
+      ],
+      "tags": [
+        {
+          "displayValue": "agent-framework-foundry",
+          "logicalValue": "agent-framework-foundry"
+        },
+        {
+          "displayValue": "agent-framework-foundry-hosting",
+          "logicalValue": "agent-framework-foundry-hosting"
+        },
+        {
+          "displayValue": "azure-ai-agentserver-optimization",
+          "logicalValue": "azure-ai-agentserver-optimization"
+        },
+        {
+          "displayValue": "azure-ai-projects",
+          "logicalValue": "azure-ai-projects"
+        },
+        {
+          "displayValue": "azure-identity",
+          "logicalValue": "azure-identity"
+        },
+        {
+          "displayValue": "azure-monitor-opentelemetry",
+          "logicalValue": "azure-monitor-opentelemetry"
+        },
+        {
+          "displayValue": "fastapi",
+          "logicalValue": "fastapi"
+        },
+        {
+          "displayValue": "httpx",
+          "logicalValue": "httpx"
+        },
+        {
+          "displayValue": "jinja2",
+          "logicalValue": "jinja2"
+        },
+        {
+          "displayValue": "jsonschema",
+          "logicalValue": "jsonschema"
+        },
+        {
+          "displayValue": "openai",
+          "logicalValue": "openai"
+        },
+        {
+          "displayValue": "pydantic",
+          "logicalValue": "pydantic"
+        },
+        {
+          "displayValue": "pytest",
+          "logicalValue": "pytest"
+        },
+        {
+          "displayValue": "python-dotenv",
+          "logicalValue": "python-dotenv"
+        },
+        {
+          "displayValue": "uvicorn",
+          "logicalValue": "uvicorn"
+        }
+      ],
+      "city_ids": [
+        "singapore",
+        "london",
+        "cologne",
+        "philadelphia",
+        "seattle",
+        "utrecht",
+        "taipei"
+      ],
+      "slide_localizations": [],
+      "repository": {
+        "url": "https://aka.ms/aitour27/BRK330"
+      },
+      "developerStack": {
+        "notes": "Python hosted agent with a lightweight browser UI, not a Node.js application. Model Router and Agent Optimizer are advanced stages; Bicep and Bash are provisioning tooling."
+      },
+      "recording_url": "https://aka.ms/aitour27/brk330/youtube"
+    },
+    {
+      "sessionCode": "BRK390",
+      "title": "Building AI applications with Microsoft Databases and Fabric",
+      "description": "You want to ship agentic apps fast, but your data layer is fragmenting. Learn how Caldova used Azure SQL, Cosmos DB, PostgreSQL, Azure Managed Redis, & Microsoft Fabric to unify fragmented enterprise data & support agentic apps.",
+      "sessionType": {
+        "displayValue": "Breakout",
+        "logicalValue": "Breakout"
+      },
+      "topic": [
+        {
+          "displayValue": "Data Platform",
+          "logicalValue": "Data Platform"
+        }
+      ],
+      "programmingLanguages": [
+        {
+          "displayValue": "TypeScript",
+          "logicalValue": "TypeScript"
+        },
+        {
+          "displayValue": "JavaScript",
+          "logicalValue": "JavaScript"
+        },
+        {
+          "displayValue": "Python",
+          "logicalValue": "Python"
+        },
+        {
+          "displayValue": "SQL",
+          "logicalValue": "SQL"
+        },
+        {
+          "displayValue": "PL/pgSQL",
+          "logicalValue": "PL/pgSQL"
+        },
+        {
+          "displayValue": "KQL",
+          "logicalValue": "KQL"
+        },
+        {
+          "displayValue": "DAX",
+          "logicalValue": "DAX"
+        },
+        {
+          "displayValue": "HTML",
+          "logicalValue": "HTML"
+        },
+        {
+          "displayValue": "CSS",
+          "logicalValue": "CSS"
+        }
+      ],
+      "product": [
+        {
+          "displayValue": "Node.js",
+          "logicalValue": "Node.js"
+        },
+        {
+          "displayValue": "React",
+          "logicalValue": "React"
+        },
+        {
+          "displayValue": "Vite",
+          "logicalValue": "Vite"
+        },
+        {
+          "displayValue": "Tailwind CSS",
+          "logicalValue": "Tailwind CSS"
+        },
+        {
+          "displayValue": "Rayfin",
+          "logicalValue": "Rayfin"
+        },
+        {
+          "displayValue": "Microsoft Fabric",
+          "logicalValue": "Microsoft Fabric"
+        },
+        {
+          "displayValue": "OneLake",
+          "logicalValue": "OneLake"
+        },
+        {
+          "displayValue": "Microsoft Fabric SQL Database",
+          "logicalValue": "Microsoft Fabric SQL Database"
+        },
+        {
+          "displayValue": "Microsoft Fabric Real-Time Intelligence",
+          "logicalValue": "Microsoft Fabric Real-Time Intelligence"
+        },
+        {
+          "displayValue": "Microsoft Fabric Eventhouse",
+          "logicalValue": "Microsoft Fabric Eventhouse"
+        },
+        {
+          "displayValue": "Fabric IQ",
+          "logicalValue": "Fabric IQ"
+        },
+        {
+          "displayValue": "Microsoft Fabric Data Agent",
+          "logicalValue": "Microsoft Fabric Data Agent"
+        },
+        {
+          "displayValue": "Microsoft Fabric User Data Functions",
+          "logicalValue": "Microsoft Fabric User Data Functions"
+        },
+        {
+          "displayValue": "Azure HorizonDB",
+          "logicalValue": "Azure HorizonDB"
+        },
+        {
+          "displayValue": "PostgreSQL",
+          "logicalValue": "PostgreSQL"
+        },
+        {
+          "displayValue": "Copilot Cowork",
+          "logicalValue": "Copilot Cowork"
+        },
+        {
+          "displayValue": "Microsoft Teams SDK",
+          "logicalValue": "Microsoft Teams SDK"
+        },
+        {
+          "displayValue": "Model Context Protocol",
+          "logicalValue": "Model Context Protocol"
+        },
+        {
+          "displayValue": "FastAPI",
+          "logicalValue": "FastAPI"
+        },
+        {
+          "displayValue": "Azure Cosmos DB for NoSQL",
+          "logicalValue": "Azure Cosmos DB for NoSQL"
+        },
+        {
+          "displayValue": "Azure Cosmos DB Agent Memory Toolkit",
+          "logicalValue": "Azure Cosmos DB Agent Memory Toolkit"
+        },
+        {
+          "displayValue": "Azure SQL Database",
+          "logicalValue": "Azure SQL Database"
+        },
+        {
+          "displayValue": "Azure Functions",
+          "logicalValue": "Azure Functions"
+        },
+        {
+          "displayValue": "Azure OpenAI",
+          "logicalValue": "Azure OpenAI"
+        },
+        {
+          "displayValue": "Microsoft Entra ID",
+          "logicalValue": "Microsoft Entra ID"
+        }
+      ],
+      "tags": [
+        {
+          "displayValue": "@azure/cosmos",
+          "logicalValue": "@azure/cosmos"
+        },
+        {
+          "displayValue": "@azure/functions",
+          "logicalValue": "@azure/functions"
+        },
+        {
+          "displayValue": "@azure/identity",
+          "logicalValue": "@azure/identity"
+        },
+        {
+          "displayValue": "@azure/msal-browser",
+          "logicalValue": "@azure/msal-browser"
+        },
+        {
+          "displayValue": "azure-kusto-data",
+          "logicalValue": "azure-kusto-data"
+        },
+        {
+          "displayValue": "mssql",
+          "logicalValue": "mssql"
+        },
+        {
+          "displayValue": "@microsoft/fabric-app-data",
+          "logicalValue": "@microsoft/fabric-app-data"
+        },
+        {
+          "displayValue": "@microsoft/fabric-datagrid",
+          "logicalValue": "@microsoft/fabric-datagrid"
+        },
+        {
+          "displayValue": "@microsoft/fabric-visuals",
+          "logicalValue": "@microsoft/fabric-visuals"
+        },
+        {
+          "displayValue": "@microsoft/rayfin-client",
+          "logicalValue": "@microsoft/rayfin-client"
+        },
+        {
+          "displayValue": "@microsoft/rayfin-core",
+          "logicalValue": "@microsoft/rayfin-core"
+        },
+        {
+          "displayValue": "@microsoft/rayfin-data",
+          "logicalValue": "@microsoft/rayfin-data"
+        },
+        {
+          "displayValue": "@microsoft/rayfin-functions",
+          "logicalValue": "@microsoft/rayfin-functions"
+        },
+        {
+          "displayValue": "@microsoft/fabric-user-data-functions",
+          "logicalValue": "@microsoft/fabric-user-data-functions"
+        },
+        {
+          "displayValue": "react",
+          "logicalValue": "react"
+        },
+        {
+          "displayValue": "react-dom",
+          "logicalValue": "react-dom"
+        },
+        {
+          "displayValue": "tailwindcss",
+          "logicalValue": "tailwindcss"
+        },
+        {
+          "displayValue": "typescript",
+          "logicalValue": "typescript"
+        },
+        {
+          "displayValue": "vite",
+          "logicalValue": "vite"
+        },
+        {
+          "displayValue": "vitest",
+          "logicalValue": "vitest"
+        },
+        {
+          "displayValue": "fastapi",
+          "logicalValue": "fastapi"
+        },
+        {
+          "displayValue": "uvicorn",
+          "logicalValue": "uvicorn"
+        },
+        {
+          "displayValue": "mcp",
+          "logicalValue": "mcp"
+        },
+        {
+          "displayValue": "psycopg",
+          "logicalValue": "psycopg"
+        },
+        {
+          "displayValue": "PyJWT",
+          "logicalValue": "PyJWT"
+        },
+        {
+          "displayValue": "microsoft-teams-apps",
+          "logicalValue": "microsoft-teams-apps"
+        },
+        {
+          "displayValue": "azure-cosmos-agent-memory",
+          "logicalValue": "azure-cosmos-agent-memory"
+        },
+        {
+          "displayValue": "prompty",
+          "logicalValue": "prompty"
+        }
+      ],
+      "city_ids": [
+        "singapore",
+        "london",
+        "cologne",
+        "mexico-city",
+        "utrecht",
+        "taipei"
+      ],
+      "slide_localizations": [],
+      "repository": {
+        "url": "https://aka.ms/aitour27/BRK390"
+      },
+      "developerStack": {
+        "notes": "Three separate implementation paths: Fabric/React/Rayfin; Python/HorizonDB/Cowork/Teams; and Node.js/Azure Functions/Azure SQL. These are not one mandatory stack. Bicep, PowerShell, and Bash support deployment; Cosmos DB in Fabric is optional and distinct from standalone Azure Cosmos DB."
+      },
+      "recording_url": "https://aka.ms/aitour27/brk390/youtube"
+    },
+    {
+      "sessionCode": "ILL110",
+      "title": "From AI Spend to AI Strategy",
+      "description": "Intelligence is becoming a resource you manage, not a tool you license. Participants will explore Microsoft's Frontier Firm Playbook and learn how leading organizations align AI initiatives to business goals, optimize the division of work between humans and agents and create an economic foundation that drives adoption, efficiency, and measurable business value at scale.\r\n\r\n***Note:  You must bring your own laptop with a keyboard to participate in this lab.***",
+      "sessionType": {
+        "displayValue": "Instructor-Led Lab",
+        "logicalValue": "Instructor-Led Lab"
+      },
+      "topic": [
+        {
+          "displayValue": "Frontier Transformation",
+          "logicalValue": "Frontier Transformation"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "london",
+        "cologne",
+        "philadelphia"
+      ],
+      "slide_localizations": [],
+      "repository": null
+    },
+    {
+      "sessionCode": "ILL125",
+      "title": "Turn Agent Ideas into Business Value",
+      "description": "Discover how agentic work with Microsoft 365 Copilot helps address real business needs and create new ways of working. Identify a high-value scenario, build an agent with Agent Builder, and explore how to translate the experience into broader agent adoption.\r\n\r\n***Note:  You must bring your own laptop with a keyboard to participate in this lab.***",
+      "sessionType": {
+        "displayValue": "Instructor-Led Lab",
+        "logicalValue": "Instructor-Led Lab"
+      },
+      "topic": [
+        {
+          "displayValue": "Frontier Transformation",
+          "logicalValue": "Frontier Transformation"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "singapore",
+        "london",
+        "cologne",
+        "philadelphia",
+        "mexico-city",
+        "dubai",
+        "seattle",
+        "utrecht"
+      ],
+      "slide_localizations": [],
+      "repository": null
+    },
+    {
+      "sessionCode": "ILL224",
+      "title": "See How Far One Agent Goes in Copilot Studio",
+      "description": "How capable can a single agent really be? In this hands-on workshop, you'll build one agent in the rebuilt Copilot Studio and push it through increasingly complex challenges, discovering just how far the new orchestrator, Skills, and automation tools can take it.\r\n\r\n***Note:  You must bring your own laptop with a keyboard to participate in this lab.***",
+      "sessionType": {
+        "displayValue": "Instructor-Led Lab",
+        "logicalValue": "Instructor-Led Lab"
+      },
+      "topic": [
+        {
+          "displayValue": "Frontier Transformation",
+          "logicalValue": "Frontier Transformation"
+        }
+      ],
+      "programmingLanguages": [
+        {
+          "displayValue": "Python",
+          "logicalValue": "Python"
+        }
+      ],
+      "product": [
+        {
+          "displayValue": "Microsoft Copilot Studio",
+          "logicalValue": "Microsoft Copilot Studio"
+        },
+        {
+          "displayValue": "SharePoint",
+          "logicalValue": "SharePoint"
+        },
+        {
+          "displayValue": "Model Context Protocol",
+          "logicalValue": "Model Context Protocol"
+        },
+        {
+          "displayValue": "Agent skills",
+          "logicalValue": "Agent skills"
+        },
+        {
+          "displayValue": "Copilot Studio Workflows",
+          "logicalValue": "Copilot Studio Workflows"
+        },
+        {
+          "displayValue": "Agent memory",
+          "logicalValue": "Agent memory"
+        },
+        {
+          "displayValue": "Agent evaluation",
+          "logicalValue": "Agent evaluation"
+        }
+      ],
+      "tags": [],
+      "city_ids": [
+        "singapore",
+        "paris",
+        "london",
+        "cologne",
+        "mexico-city",
+        "seattle",
+        "utrecht",
+        "taipei"
+      ],
+      "slide_localizations": [],
+      "repository": {
+        "url": "https://aka.ms/aitour27/ILL224"
+      },
+      "developerStack": {
+        "notes": "Primarily low-code; learners execute a packaged Python invoice-review skill using standard-library imports. Node document-generation and PowerShell provisioning tooling are not the learner application stack. Uses Copilot Studio Workflows, not Power Automate cloud flows."
+      },
+      "recording_url": "https://aka.ms/aitour27/ill224/youtube"
+    },
+    {
+      "sessionCode": "ILL234",
+      "title": "Coding with agents in GitHub Copilot CLI",
+      "description": "Agents in GitHub Copilot CLI help you ground changes with better context and repeatable steps, so you don't chase hallucinations. Let's explore how to get the most out of GitHub Copilot in this guided workshop.\r\n\r\n***Note:  You must bring your own laptop with a keyboard to participate in this lab.***",
+      "sessionType": {
+        "displayValue": "Instructor-Led Lab",
+        "logicalValue": "Instructor-Led Lab"
+      },
+      "topic": [
+        {
+          "displayValue": "Agent Platform",
+          "logicalValue": "Agent Platform"
+        }
+      ],
+      "programmingLanguages": [
+        {
+          "displayValue": "TypeScript",
+          "logicalValue": "TypeScript"
+        },
+        {
+          "displayValue": "JavaScript",
+          "logicalValue": "JavaScript"
+        },
+        {
+          "displayValue": "HTML",
+          "logicalValue": "HTML"
+        },
+        {
+          "displayValue": "CSS",
+          "logicalValue": "CSS"
+        },
+        {
+          "displayValue": "SQL",
+          "logicalValue": "SQL"
+        }
+      ],
+      "product": [
+        {
+          "displayValue": "GitHub Copilot CLI",
+          "logicalValue": "GitHub Copilot CLI"
+        },
+        {
+          "displayValue": "GitHub MCP server",
+          "logicalValue": "GitHub MCP server"
+        },
+        {
+          "displayValue": "Playwright MCP server",
+          "logicalValue": "Playwright MCP server"
+        },
+        {
+          "displayValue": "Model Context Protocol",
+          "logicalValue": "Model Context Protocol"
+        },
+        {
+          "displayValue": "GitHub Codespaces",
+          "logicalValue": "GitHub Codespaces"
+        },
+        {
+          "displayValue": "Node.js",
+          "logicalValue": "Node.js"
+        },
+        {
+          "displayValue": "Astro",
+          "logicalValue": "Astro"
+        },
+        {
+          "displayValue": "Tailwind CSS",
+          "logicalValue": "Tailwind CSS"
+        },
+        {
+          "displayValue": "Drizzle ORM",
+          "logicalValue": "Drizzle ORM"
+        },
+        {
+          "displayValue": "libSQL",
+          "logicalValue": "libSQL"
+        },
+        {
+          "displayValue": "SQLite",
+          "logicalValue": "SQLite"
+        },
+        {
+          "displayValue": "Zod",
+          "logicalValue": "Zod"
+        },
+        {
+          "displayValue": "Playwright",
+          "logicalValue": "Playwright"
+        },
+        {
+          "displayValue": "Vitest",
+          "logicalValue": "Vitest"
+        },
+        {
+          "displayValue": "ESLint",
+          "logicalValue": "ESLint"
+        },
+        {
+          "displayValue": "Agent skills",
+          "logicalValue": "Agent skills"
+        },
+        {
+          "displayValue": "Custom agents",
+          "logicalValue": "Custom agents"
+        }
+      ],
+      "tags": [
+        {
+          "displayValue": "@github/copilot",
+          "logicalValue": "@github/copilot"
+        },
+        {
+          "displayValue": "@playwright/mcp",
+          "logicalValue": "@playwright/mcp"
+        },
+        {
+          "displayValue": "@astrojs/node",
+          "logicalValue": "@astrojs/node"
+        },
+        {
+          "displayValue": "@libsql/client",
+          "logicalValue": "@libsql/client"
+        },
+        {
+          "displayValue": "@tailwindcss/vite",
+          "logicalValue": "@tailwindcss/vite"
+        },
+        {
+          "displayValue": "astro",
+          "logicalValue": "astro"
+        },
+        {
+          "displayValue": "drizzle-orm",
+          "logicalValue": "drizzle-orm"
+        },
+        {
+          "displayValue": "typescript",
+          "logicalValue": "typescript"
+        },
+        {
+          "displayValue": "zod",
+          "logicalValue": "zod"
+        },
+        {
+          "displayValue": "@playwright/test",
+          "logicalValue": "@playwright/test"
+        },
+        {
+          "displayValue": "drizzle-kit",
+          "logicalValue": "drizzle-kit"
+        },
+        {
+          "displayValue": "eslint",
+          "logicalValue": "eslint"
+        },
+        {
+          "displayValue": "tailwindcss",
+          "logicalValue": "tailwindcss"
+        },
+        {
+          "displayValue": "vitest",
+          "logicalValue": "vitest"
+        }
+      ],
+      "city_ids": [
+        "singapore",
+        "london",
+        "cologne",
+        "philadelphia",
+        "mexico-city",
+        "dubai",
+        "seattle",
+        "utrecht"
+      ],
+      "slide_localizations": [],
+      "repository": {
+        "url": "https://aka.ms/aitour27/ILL234"
+      },
+      "developerStack": {
+        "notes": "Application stack comes from the explicitly required github-samples/caldova-careers repository. The Microsoft session repository supplies the lab instructions. No React evidence."
+      },
+      "recording_url": "https://aka.ms/aitour27/ill234/youtube"
+    },
+    {
+      "sessionCode": "ILL335",
+      "title": "Building & deploying AI agents with Microsoft Foundry",
+      "description": "Build a production-ready app with Microsoft Foundry. Provision a project, connect to a hosted model via OpenAI SDK, and create a review moderation pipeline. Compare models, deploy a hosted agent, and run it via the OpenAI Responses API with Python.\r\n\r\n***Note:  You must bring your own laptop with a keyboard to participate in this lab.***",
+      "sessionType": {
+        "displayValue": "Instructor-Led Lab",
+        "logicalValue": "Instructor-Led Lab"
+      },
+      "topic": [
+        {
+          "displayValue": "Agent Platform",
+          "logicalValue": "Agent Platform"
+        }
+      ],
+      "programmingLanguages": [
+        {
+          "displayValue": "Python",
+          "logicalValue": "Python"
+        }
+      ],
+      "product": [
+        {
+          "displayValue": "Microsoft Foundry",
+          "logicalValue": "Microsoft Foundry"
+        },
+        {
+          "displayValue": "Microsoft Foundry Agent Service",
+          "logicalValue": "Microsoft Foundry Agent Service"
+        },
+        {
+          "displayValue": "Microsoft Agent Framework",
+          "logicalValue": "Microsoft Agent Framework"
+        },
+        {
+          "displayValue": "Azure AI Projects SDK",
+          "logicalValue": "Azure AI Projects SDK"
+        },
+        {
+          "displayValue": "OpenAI Responses API",
+          "logicalValue": "OpenAI Responses API"
+        },
+        {
+          "displayValue": "Azure OpenAI",
+          "logicalValue": "Azure OpenAI"
+        },
+        {
+          "displayValue": "Azure Identity",
+          "logicalValue": "Azure Identity"
+        },
+        {
+          "displayValue": "Foundry Toolkit",
+          "logicalValue": "Foundry Toolkit"
+        },
+        {
+          "displayValue": "Azure Developer CLI",
+          "logicalValue": "Azure Developer CLI"
+        },
+        {
+          "displayValue": "pytest",
+          "logicalValue": "pytest"
+        }
+      ],
+      "tags": [
+        {
+          "displayValue": "azure-ai-projects",
+          "logicalValue": "azure-ai-projects"
+        },
+        {
+          "displayValue": "azure-identity",
+          "logicalValue": "azure-identity"
+        },
+        {
+          "displayValue": "openai",
+          "logicalValue": "openai"
+        },
+        {
+          "displayValue": "python-dotenv",
+          "logicalValue": "python-dotenv"
+        },
+        {
+          "displayValue": "pytest",
+          "logicalValue": "pytest"
+        },
+        {
+          "displayValue": "agent-framework-core",
+          "logicalValue": "agent-framework-core"
+        },
+        {
+          "displayValue": "agent-framework-foundry",
+          "logicalValue": "agent-framework-foundry"
+        },
+        {
+          "displayValue": "agent-framework-openai",
+          "logicalValue": "agent-framework-openai"
+        },
+        {
+          "displayValue": "agent-framework-foundry-hosting",
+          "logicalValue": "agent-framework-foundry-hosting"
+        },
+        {
+          "displayValue": "azure-ai-agentserver-core",
+          "logicalValue": "azure-ai-agentserver-core"
+        },
+        {
+          "displayValue": "azure-ai-agentserver-responses",
+          "logicalValue": "azure-ai-agentserver-responses"
+        },
+        {
+          "displayValue": "debugpy",
+          "logicalValue": "debugpy"
+        }
+      ],
+      "city_ids": [
+        "singapore",
+        "paris",
+        "london",
+        "cologne",
+        "mexico-city",
+        "seattle",
+        "utrecht"
+      ],
+      "slide_localizations": [],
+      "repository": {
+        "url": "https://aka.ms/aitour27/ILL335"
+      },
+      "developerStack": {
+        "notes": "Python inference and managed hosted-agent environments have separate dependency versions. Direct source-code hosting, not a learner-authored Docker workflow. Bicep, PowerShell, and Bash are provisioning tooling."
+      },
+      "recording_url": "https://aka.ms/aitour27/ill335/youtube"
+    },
+    {
+      "sessionCode": "ILL344",
+      "title": "Turning data into agent-ready knowledge with Microsoft IQ",
+      "description": "Use Foundry IQ to build a multi-source knowledge base with agentic retrieval, Fabric IQ to retrieve data from OneLake & Work IQ to include org data and build an agent using the combined retrieval power of the IQs to reason across files, data, & work signals.\r\n\r\n***Note:  You must bring your own laptop with a keyboard to participate in this lab.***",
+      "sessionType": {
+        "displayValue": "Instructor-Led Lab",
+        "logicalValue": "Instructor-Led Lab"
+      },
+      "topic": [
+        {
+          "displayValue": "Microsoft IQ",
+          "logicalValue": "Microsoft IQ"
+        }
+      ],
+      "programmingLanguages": [
+        {
+          "displayValue": "Python",
+          "logicalValue": "Python"
+        }
+      ],
+      "product": [
+        {
+          "displayValue": "Foundry IQ",
+          "logicalValue": "Foundry IQ"
+        },
+        {
+          "displayValue": "Azure AI Search",
+          "logicalValue": "Azure AI Search"
+        },
+        {
+          "displayValue": "Agentic retrieval",
+          "logicalValue": "Agentic retrieval"
+        },
+        {
+          "displayValue": "Fabric IQ",
+          "logicalValue": "Fabric IQ"
+        },
+        {
+          "displayValue": "Microsoft Fabric Data Agent",
+          "logicalValue": "Microsoft Fabric Data Agent"
+        },
+        {
+          "displayValue": "Microsoft Fabric Lakehouse",
+          "logicalValue": "Microsoft Fabric Lakehouse"
+        },
+        {
+          "displayValue": "OneLake",
+          "logicalValue": "OneLake"
+        },
+        {
+          "displayValue": "Work IQ",
+          "logicalValue": "Work IQ"
+        },
+        {
+          "displayValue": "Microsoft Entra ID",
+          "logicalValue": "Microsoft Entra ID"
+        },
+        {
+          "displayValue": "Azure OpenAI",
+          "logicalValue": "Azure OpenAI"
+        },
+        {
+          "displayValue": "Microsoft Agent Framework",
+          "logicalValue": "Microsoft Agent Framework"
+        },
+        {
+          "displayValue": "Model Context Protocol",
+          "logicalValue": "Model Context Protocol"
+        },
+        {
+          "displayValue": "Jupyter Notebooks",
+          "logicalValue": "Jupyter Notebooks"
+        }
+      ],
+      "tags": [
+        {
+          "displayValue": "aiohttp",
+          "logicalValue": "aiohttp"
+        },
+        {
+          "displayValue": "agent-framework-core",
+          "logicalValue": "agent-framework-core"
+        },
+        {
+          "displayValue": "agent-framework-openai",
+          "logicalValue": "agent-framework-openai"
+        },
+        {
+          "displayValue": "azure-identity",
+          "logicalValue": "azure-identity"
+        },
+        {
+          "displayValue": "azure-search-documents",
+          "logicalValue": "azure-search-documents"
+        },
+        {
+          "displayValue": "azure-storage-blob",
+          "logicalValue": "azure-storage-blob"
+        },
+        {
+          "displayValue": "azure-storage-file-datalake",
+          "logicalValue": "azure-storage-file-datalake"
+        },
+        {
+          "displayValue": "ipykernel",
+          "logicalValue": "ipykernel"
+        },
+        {
+          "displayValue": "mcp",
+          "logicalValue": "mcp"
+        },
+        {
+          "displayValue": "microsoft-fabric-api",
+          "logicalValue": "microsoft-fabric-api"
+        },
+        {
+          "displayValue": "pyarrow",
+          "logicalValue": "pyarrow"
+        },
+        {
+          "displayValue": "python-dotenv",
+          "logicalValue": "python-dotenv"
+        },
+        {
+          "displayValue": "requests",
+          "logicalValue": "requests"
+        }
+      ],
+      "city_ids": [
+        "singapore",
+        "paris",
+        "london",
+        "cologne",
+        "mexico-city",
+        "seattle",
+        "utrecht",
+        "taipei"
+      ],
+      "slide_localizations": [],
+      "repository": {
+        "url": "https://aka.ms/aitour27/ILL344"
+      },
+      "developerStack": {
+        "notes": "Five Python notebooks cover distinct knowledge-source integrations. The final MCP agent uses file/search-index sources; it does not itself combine Work IQ and Fabric sources. Bicep and shell scripts support provisioning."
+      },
+      "recording_url": "https://aka.ms/aitour27/ill344/youtube"
+    },
+    {
+      "sessionCode": "ILL392",
+      "title": "Build agentic AI Postgres apps on Azure HorizonDB",
+      "description": "How can you ship agentic apps fast if your data layer keeps fragmenting? Learn how to build an agentic app, with Azure HorizonDB (Postgres) as your relational store, full-text search engine, vector database, graph database, & long-term memory store for the agent.\r\n\r\n***Note:  You must bring your own laptop with a keyboard to participate in this lab.***",
+      "sessionType": {
+        "displayValue": "Instructor-Led Lab",
+        "logicalValue": "Instructor-Led Lab"
+      },
+      "topic": [
+        {
+          "displayValue": "Data Platform",
+          "logicalValue": "Data Platform"
+        }
+      ],
+      "programmingLanguages": [
+        {
+          "displayValue": "Python",
+          "logicalValue": "Python"
+        },
+        {
+          "displayValue": "SQL",
+          "logicalValue": "SQL"
+        },
+        {
+          "displayValue": "PL/pgSQL",
+          "logicalValue": "PL/pgSQL"
+        },
+        {
+          "displayValue": "Cypher",
+          "logicalValue": "Cypher"
+        }
+      ],
+      "product": [
+        {
+          "displayValue": "Azure HorizonDB",
+          "logicalValue": "Azure HorizonDB"
+        },
+        {
+          "displayValue": "PostgreSQL",
+          "logicalValue": "PostgreSQL"
+        },
+        {
+          "displayValue": "Microsoft Agent Framework",
+          "logicalValue": "Microsoft Agent Framework"
+        },
+        {
+          "displayValue": "Azure OpenAI",
+          "logicalValue": "Azure OpenAI"
+        },
+        {
+          "displayValue": "Jupyter",
+          "logicalValue": "Jupyter"
+        },
+        {
+          "displayValue": "Gradio",
+          "logicalValue": "Gradio"
+        },
+        {
+          "displayValue": "pgvector",
+          "logicalValue": "pgvector"
+        },
+        {
+          "displayValue": "DiskANN",
+          "logicalValue": "DiskANN"
+        },
+        {
+          "displayValue": "pg_textsearch",
+          "logicalValue": "pg_textsearch"
+        },
+        {
+          "displayValue": "Apache AGE",
+          "logicalValue": "Apache AGE"
+        },
+        {
+          "displayValue": "azure_ai PostgreSQL extension",
+          "logicalValue": "azure_ai PostgreSQL extension"
+        },
+        {
+          "displayValue": "Mem0",
+          "logicalValue": "Mem0"
+        }
+      ],
+      "tags": [
+        {
+          "displayValue": "gradio",
+          "logicalValue": "gradio"
+        },
+        {
+          "displayValue": "jupyter",
+          "logicalValue": "jupyter"
+        },
+        {
+          "displayValue": "ipywidgets",
+          "logicalValue": "ipywidgets"
+        },
+        {
+          "displayValue": "uvicorn",
+          "logicalValue": "uvicorn"
+        },
+        {
+          "displayValue": "nest_asyncio",
+          "logicalValue": "nest_asyncio"
+        },
+        {
+          "displayValue": "psycopg",
+          "logicalValue": "psycopg"
+        },
+        {
+          "displayValue": "openai",
+          "logicalValue": "openai"
+        },
+        {
+          "displayValue": "python-dotenv",
+          "logicalValue": "python-dotenv"
+        },
+        {
+          "displayValue": "pydantic",
+          "logicalValue": "pydantic"
+        },
+        {
+          "displayValue": "requests",
+          "logicalValue": "requests"
+        },
+        {
+          "displayValue": "agent-framework",
+          "logicalValue": "agent-framework"
+        }
+      ],
+      "city_ids": [
+        "singapore",
+        "london",
+        "cologne",
+        "mexico-city",
+        "seattle",
+        "utrecht",
+        "taipei"
+      ],
+      "slide_localizations": [],
+      "repository": {
+        "url": "https://aka.ms/aitour27/ILL392"
+      },
+      "developerStack": {
+        "notes": "Retrieval and memory are implemented in HorizonDB, not Azure AI Search or Elasticsearch. Mem0 is imported but its distribution is not declared in requirements; no package name/version was inferred. Bicep and shell scripts support provisioning."
+      },
+      "recording_url": "https://aka.ms/aitour27/ill392/youtube"
+    },
+    {
+      "sessionCode": "LTG100",
+      "title": "AI and the future of defense & intelligence",
+      "description": "See how AI is transforming defense and intelligence operations, from planning and cyber defense to command and control, coalition collaboration, and mission execution, helping organizations sharpen decisions and gain mission advantage.",
+      "sessionType": {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      },
+      "topic": [
+        {
+          "displayValue": "Industry",
+          "logicalValue": "Industry"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "singapore"
+      ],
+      "slide_localizations": [],
+      "repository": null
+    },
+    {
+      "sessionCode": "LTG101",
+      "title": "Scaling AI from pilots to institutional impact",
+      "description": "AI use across education is widespread, but impact remains uneven. This session shows how leaders move from pilots to governed, scalable AI across teaching, student success, research, and operations-with a readiness lens and clear next steps.",
+      "sessionType": {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      },
+      "topic": [
+        {
+          "displayValue": "Industry",
+          "logicalValue": "Industry"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "utrecht"
+      ],
+      "slide_localizations": [],
+      "repository": null
+    },
+    {
+      "sessionCode": "LTG102",
+      "title": "Accelerating grid intelligence",
+      "description": "Industrial AI is unlocking new possibilities. Explore how Power & Utilities leaders are turning operational data into intelligence for faster decisions, stronger reliability, greater productivity, safer operations, and resilience.",
+      "sessionType": {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      },
+      "topic": [
+        {
+          "displayValue": "Industry",
+          "logicalValue": "Industry"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "paris",
+        "cologne",
+        "utrecht"
+      ],
+      "slide_localizations": [],
+      "repository": null
+    },
+    {
+      "sessionCode": "LTG105",
+      "title": "AI for better health",
+      "description": "AI for Better Health aims to help people live healthier by using agentic AI to transform how care is discovered, delivered, and accessed-accelerating breakthroughs, improving experiences, and advancing health equity.",
+      "sessionType": {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      },
+      "topic": [
+        {
+          "displayValue": "Industry",
+          "logicalValue": "Industry"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "philadelphia"
+      ],
+      "slide_localizations": [],
+      "repository": null
+    },
+    {
+      "sessionCode": "LTG106",
+      "title": "Operationalizing physical AI",
+      "description": "Physical AI is redefining manufacturing: adaptive machines that perceive, reason, and act to elevate productivity, quality, and resilience. See what it takes to operationalize them, and the decisions leaders make to lead the industrial frontier.",
+      "sessionType": {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      },
+      "topic": [
+        {
+          "displayValue": "Industry",
+          "logicalValue": "Industry"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "cologne",
+        "seattle"
+      ],
+      "slide_localizations": [],
+      "repository": null
+    },
+    {
+      "sessionCode": "LTG107",
+      "title": "Frontier media: Putting AI to work at scale",
+      "description": "Frontier media companies are moving past isolated AI pilots into agentic workflows across the content lifecycle. In 15 minutes, see how AI accelerates creation, sharpens audience intelligence, and hardens delivery, with proof points and a path to scale.",
+      "sessionType": {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      },
+      "topic": [
+        {
+          "displayValue": "Industry",
+          "logicalValue": "Industry"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "london"
+      ],
+      "slide_localizations": [],
+      "repository": null
+    },
+    {
+      "sessionCode": "LTG109",
+      "title": "Driving growth with AI: Telecom transformation",
+      "description": "AI is unlocking new growth for telcos. Learn how leading operators use AI to reduce churn, speed service innovation, improve networks, and create new revenue-securely and at scale with Microsoft.",
+      "sessionType": {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      },
+      "topic": [
+        {
+          "displayValue": "Industry",
+          "logicalValue": "Industry"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "singapore",
+        "london",
+        "philadelphia"
+      ],
+      "slide_localizations": [],
+      "repository": null
+    },
+    {
+      "sessionCode": "LTG110",
+      "title": "Accelerate AI Value with Frontier Center of Excellence",
+      "description": "Many organizations are investing in AI, but translating that investment into measurable value can be challenging. This session introduces a Frontier Center of Excellence framework that helps identify key drivers of AI value and where to focus efforts.",
+      "sessionType": {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      },
+      "topic": [
+        {
+          "displayValue": "Frontier Transformation",
+          "logicalValue": "Frontier Transformation"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "singapore",
+        "paris",
+        "london",
+        "cologne",
+        "utrecht"
+      ],
+      "slide_localizations": [],
+      "repository": null
+    },
+    {
+      "sessionCode": "LTG112",
+      "title": "AI in Action: Your Path to Frontier",
+      "description": "Start your path to Frontier with practical resources and guidance and see how one customer moved from early AI ideas to production, achieving measurable business outcomes.",
+      "sessionType": {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      },
+      "topic": [
+        {
+          "displayValue": "Frontier Transformation",
+          "logicalValue": "Frontier Transformation"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "singapore",
+        "paris",
+        "london",
+        "cologne",
+        "mexico-city",
+        "seattle",
+        "utrecht"
+      ],
+      "slide_localizations": [],
+      "repository": null
+    },
+    {
+      "sessionCode": "LTG114",
+      "title": "AI Skills Navigator: Transforming skilling with AI-powered learning",
+      "description": "Experience the future of workforce development with AI Skills Navigator - our agentic learning space, bringing together AI-powered skilling experiences and credentials that help individuals build career skills and organizations worldwide accelerate their business.",
+      "sessionType": {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      },
+      "topic": [
+        {
+          "displayValue": "AI Skill Building",
+          "logicalValue": "AI Skill Building"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "singapore",
+        "paris",
+        "london",
+        "cologne",
+        "philadelphia",
+        "mexico-city",
+        "seattle",
+        "utrecht"
+      ],
+      "slide_localizations": [],
+      "repository": null
+    },
+    {
+      "sessionCode": "LTG115",
+      "title": "AI Skills Trivia Extravaganza",
+      "description": "Think you've got AI skills? Prove it! Test your knowledge against fellow enthusiasts, win prizes, and have a blast with our amazing guest hosts!",
+      "sessionType": {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      },
+      "topic": [
+        {
+          "displayValue": "AI Skill Building",
+          "logicalValue": "AI Skill Building"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "singapore",
+        "paris",
+        "london",
+        "cologne",
+        "philadelphia",
+        "mexico-city",
+        "seattle",
+        "utrecht",
+        "taipei"
+      ],
+      "slide_localizations": [],
+      "repository": null
+    },
+    {
+      "sessionCode": "LTG116",
+      "title": "Navigating Sovereignty Requirements with Microsoft Sovereign Cloud",
+      "description": "Digital sovereignty is about balancing policy and governance, sovereign AI, cloud operator access restrictions, data residency and confidentiality, and resilience needs. Learn how Microsoft Sovereign Cloud helps address these requirements.",
+      "sessionType": {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      },
+      "topic": [
+        {
+          "displayValue": "Cloud & AI Platform",
+          "logicalValue": "Cloud & AI Platform"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "singapore",
+        "paris",
+        "london",
+        "cologne",
+        "mexico-city",
+        "dubai",
+        "utrecht"
+      ],
+      "slide_localizations": [],
+      "repository": null
+    },
+    {
+      "sessionCode": "LTG119",
+      "title": "Inclusive by Design: Frontier AI That Works for All",
+      "description": "Inclusive design helps AI reach its full promise: technology that works for more people, in more ways, from the start. In this lightning talk, explore how Copilot and agents can support different ways of working, reduce everyday friction, and open new paths for creativity, productivity, and participation. We'll show how organizations can become Frontier by treating accessibility as a catalyst for better AI experiences, stronger adoption, and broader participation.",
+      "sessionType": {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      },
+      "topic": [
+        {
+          "displayValue": "Frontier Transformation",
+          "logicalValue": "Frontier Transformation"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "singapore",
+        "paris",
+        "mexico-city",
+        "dubai",
+        "taipei"
+      ],
+      "slide_localizations": [],
+      "repository": null
+    },
+    {
+      "sessionCode": "LTG122",
+      "title": "The Copilot Adoption Playbook: Practical Steps to Get Started",
+      "description": "What should organizations do first when rolling out Copilot? And what should they avoid? Learn from customers who have successfully launched Copilot across their organizations. We'll break down the important first steps for Executives, AI leaders, IT administrators, and Adoption Champions, helping you create a foundation for sustainable usage and business impact.",
+      "sessionType": {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      },
+      "topic": [
+        {
+          "displayValue": "Copilot",
+          "logicalValue": "Copilot"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "singapore",
+        "paris",
+        "london",
+        "cologne",
+        "mexico-city",
+        "dubai",
+        "seattle",
+        "utrecht",
+        "taipei"
+      ],
+      "slide_localizations": [],
+      "repository": null
+    },
+    {
+      "sessionCode": "LTG152",
+      "title": "Protect continuously and proactively with multi-agent defense",
+      "description": "Stay ahead of evolving threats with Project Perception, Microsoft's new agentic security system. See how specialized red, blue, and green team agents work together with shared security context to expose weaknesses, investigate threats, prioritize risk, and strengthen defenses. Learn how coordinated multi-agent defense helps your team move from reactive security to continuous protection, while keeping people in control of critical decisions.",
+      "sessionType": {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      },
+      "topic": [
+        {
+          "displayValue": "Security",
+          "logicalValue": "Security"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "singapore",
+        "paris",
+        "london",
+        "cologne",
+        "philadelphia",
+        "mexico-city",
+        "dubai",
+        "seattle",
+        "utrecht",
+        "taipei"
+      ],
+      "slide_localizations": [],
+      "repository": null
+    },
+    {
+      "sessionCode": "LTG153",
+      "title": "Find and fix vulnerabilities faster with multi-model agentic security",
+      "description": "Accelerate vulnerability discovery with multi-model agentic security. Codename MDASH orchestrates specialized AI agents and security-focused AI models to identify, validate, and prioritize vulnerabilities, helping teams understand risk and focus on the issues that matter most.",
+      "sessionType": {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      },
+      "topic": [
+        {
+          "displayValue": "Security",
+          "logicalValue": "Security"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "singapore",
+        "paris",
+        "london",
+        "cologne",
+        "mexico-city",
+        "dubai",
+        "seattle",
+        "utrecht"
+      ],
+      "slide_localizations": [],
+      "repository": null
+    },
+    {
+      "sessionCode": "LTG161",
+      "title": "Show, Don't Tell: Helping Teams Discover the Value of Copilot",
+      "description": "The fastest path to Copilot adoption is helping employees see how it improves the work they do every day. In this session, we'll share practical activities that make AI tangible for teams. Learn how organizations are enabling employees through organizational prompts, hands-on prompt workshops, agent creation challenges, and communication campaigns that reinforce key behaviors. You'll leave with a playbook of actions you can take to spark engagement and build momentum.",
+      "sessionType": {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      },
+      "topic": [
+        {
+          "displayValue": "Windows Ecosystem",
+          "logicalValue": "Windows Ecosystem"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "singapore",
+        "paris",
+        "london",
+        "cologne",
+        "mexico-city",
+        "dubai",
+        "seattle",
+        "utrecht",
+        "taipei"
+      ],
+      "slide_localizations": [],
+      "repository": null
+    },
+    {
+      "sessionCode": "LTG162",
+      "title": "From AI Pilots to Agentic Work: Why Windows Matters More Than Ever",
+      "description": "AI agents are becoming a new way work gets done. But scaling both human and agent-driven work requires more than AI tools alone. Discover how Windows 365 delivers secure, managed Cloud PCs for employees today while creating the foundation organizations need to securely deploy and govern AI agents tomorrow.",
+      "sessionType": {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      },
+      "topic": [
+        {
+          "displayValue": "Windows Ecosystem",
+          "logicalValue": "Windows Ecosystem"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "singapore",
+        "paris",
+        "london",
+        "cologne",
+        "philadelphia",
+        "mexico-city",
+        "dubai",
+        "seattle",
+        "utrecht"
+      ],
+      "slide_localizations": [],
+      "repository": null
+    },
+    {
+      "sessionCode": "LTG163",
+      "title": "Scale your intelligence on Windows with Surface",
+      "description": "Discover why the device is becoming a critical part of AI strategy. Learn how Surface showcases the best of intelligence on Windows through thoughtfully crafted design, advanced silicon, and enterprise-grade security.",
+      "sessionType": {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      },
+      "topic": [
+        {
+          "displayValue": "Windows Ecosystem",
+          "logicalValue": "Windows Ecosystem"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "singapore",
+        "paris",
+        "london",
+        "cologne"
+      ],
+      "slide_localizations": [],
+      "repository": null
+    },
+    {
+      "sessionCode": "LTG232",
+      "title": "Agent development beyond Hello World",
+      "description": "Building AI agents involves more than code. See how GitHub Copilot, Microsoft Foundry Skills, and Foundry Toolkit enable an e-2-e agent workflow in VS Code, from tooling and debugging to deployment, helping you move from idea to production faster.",
+      "sessionType": {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      },
+      "topic": [
+        {
+          "displayValue": "Agent Platform",
+          "logicalValue": "Agent Platform"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "singapore",
+        "paris",
+        "london",
+        "cologne",
+        "philadelphia",
+        "mexico-city",
+        "dubai",
+        "seattle",
+        "utrecht"
+      ],
+      "slide_localizations": [],
+      "repository": {
+        "url": "https://aka.ms/aitour27/LTG232"
+      },
+      "recording_url": "https://aka.ms/aitour27/ltg232/youtube"
+    },
+    {
+      "sessionCode": "LTG233",
+      "title": "Automating Business Processes with Copilot Studio",
+      "description": "Explore how agents and workflows work together in Copilot Studio to automate and augment business processes. Learn when to use AI, where human oversight matters, and how to build scalable solutions across your organization.",
+      "sessionType": {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      },
+      "topic": [
+        {
+          "displayValue": "Agent Platform",
+          "logicalValue": "Agent Platform"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "singapore",
+        "paris",
+        "london",
+        "cologne",
+        "philadelphia",
+        "mexico-city",
+        "dubai",
+        "seattle",
+        "utrecht",
+        "taipei"
+      ],
+      "slide_localizations": [],
+      "repository": null
+    },
+    {
+      "sessionCode": "LTG236",
+      "title": "GitHub Copilot App: enabling agentic workflow",
+      "description": "Watch the GitHub Copilot App turn issues into action: automate your daily flow, then orchestrate multiple agents working in parallel on real code.",
+      "sessionType": {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      },
+      "topic": [
+        {
+          "displayValue": "Agent Platform",
+          "logicalValue": "Agent Platform"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "singapore",
+        "paris",
+        "london",
+        "cologne",
+        "mexico-city",
+        "dubai",
+        "seattle",
+        "utrecht",
+        "taipei"
+      ],
+      "slide_localizations": [],
+      "repository": null
+    },
+    {
+      "sessionCode": "LTG242",
+      "title": "Knowledge retrieval for AI agents with Foundry IQ",
+      "description": "Discover how Foundry IQ connects knowledge across diverse data sources while preserving access controls and maximizing retrieval quality. Explore AI-optimized ingestion pipelines and knowledge architectures that unify indexed and remote sources.",
+      "sessionType": {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      },
+      "topic": [
+        {
+          "displayValue": "Microsoft IQ",
+          "logicalValue": "Microsoft IQ"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "singapore",
+        "paris",
+        "london",
+        "cologne",
+        "philadelphia",
+        "mexico-city",
+        "dubai",
+        "seattle",
+        "utrecht",
+        "taipei"
+      ],
+      "slide_localizations": [],
+      "repository": {
+        "url": "https://aka.ms/aitour27/LTG242"
+      },
+      "recording_url": "https://aka.ms/aitour27/ltg242/youtube"
+    },
+    {
+      "sessionCode": "LTG243",
+      "title": "Fabric IQ: From rows to reliable answers",
+      "description": "A clinical supply planner investigates a site replenishment alert. See how governed ontology relationships, Fabric IQ, Foundry IQ, and executable checks turn fragmented enterprise data into a cited, reviewable answer.",
+      "sessionType": {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      },
+      "topic": [
+        {
+          "displayValue": "Microsoft IQ",
+          "logicalValue": "Microsoft IQ"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "singapore",
+        "paris",
+        "london",
+        "cologne",
+        "philadelphia",
+        "mexico-city",
+        "dubai",
+        "seattle",
+        "utrecht",
+        "taipei"
+      ],
+      "slide_localizations": [],
+      "repository": {
+        "url": "https://aka.ms/aitour27/LTG243"
+      }
+    },
+    {
+      "sessionCode": "LTG271",
+      "title": "Dynamics 365 in your flow of work with Copilot Cowork",
+      "description": "Turn Copilot into a system of action. See how Dynamics 365 plugins in Copilot Cowork bring business data and processes into the flow of work, helping teams move from insight to action across sales, service, finance, and operations.",
+      "sessionType": {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      },
+      "topic": [
+        {
+          "displayValue": "Agentic Business Applications",
+          "logicalValue": "Agentic Business Applications"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "singapore",
+        "paris",
+        "london",
+        "cologne",
+        "philadelphia",
+        "mexico-city",
+        "dubai",
+        "seattle",
+        "utrecht"
+      ],
+      "slide_localizations": [],
+      "repository": null
+    },
+    {
+      "sessionCode": "LTG281",
+      "title": "Microsoft Virtual Datacenter Tour",
+      "description": "Explore how Microsoft's global cloud infrastructure supports AI growth with sustainability, data residency, compliance, and resiliency-bringing applications closer to users through strategic datacenter investments.",
+      "sessionType": {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      },
+      "topic": [
+        {
+          "displayValue": "Cloud & AI Platform",
+          "logicalValue": "Cloud & AI Platform"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "singapore",
+        "paris",
+        "london",
+        "cologne",
+        "philadelphia",
+        "mexico-city",
+        "dubai",
+        "seattle",
+        "utrecht",
+        "taipei"
+      ],
+      "slide_localizations": [],
+      "repository": null
+    },
+    {
+      "sessionCode": "LTG282",
+      "title": "Agentic Ops with GitHub Copilot App",
+      "description": "It's after hours and prod just went down. Learn how the GitHub Copilot App can use Azure, Arc & Log Analytics MCP servers to hunt config drift and repair your cloud and hybrid estate live and then automate the resolution so it never happens again.",
+      "sessionType": {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      },
+      "topic": [
+        {
+          "displayValue": "Cloud & AI Platform",
+          "logicalValue": "Cloud & AI Platform"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "singapore",
+        "paris",
+        "london",
+        "cologne",
+        "philadelphia",
+        "mexico-city",
+        "dubai",
+        "seattle",
+        "utrecht"
+      ],
+      "slide_localizations": [],
+      "repository": null
+    },
+    {
+      "sessionCode": "LTG291",
+      "title": "Turn your data into production apps with Rayfin",
+      "description": "Ship faster and decide with confidence. With Rayfin, every app you build with GitHub Copilot lands its data governed and analytics-ready in Microsoft Fabric, so you go from idea to a production app your whole org can trust, with no rewrite.",
+      "sessionType": {
+        "displayValue": "Lightning Talk",
+        "logicalValue": "Lightning Talk"
+      },
+      "topic": [
+        {
+          "displayValue": "Data Platform",
+          "logicalValue": "Data Platform"
+        }
+      ],
+      "programmingLanguages": [],
+      "product": [],
+      "tags": [],
+      "city_ids": [
+        "singapore",
+        "paris",
+        "london",
+        "cologne",
+        "philadelphia",
+        "mexico-city",
+        "dubai",
+        "seattle",
+        "utrecht"
+      ],
+      "slide_localizations": [],
+      "repository": {
+        "url": "https://aka.ms/aitour27/LTG291"
+      },
+      "recording_url": "https://aka.ms/aitour27/ltg291/youtube"
+    }
+  ],
+  "data_quality": {
+    "cities_without_session_mappings": [
+      "toronto",
+      "chicago",
+      "sydney",
+      "mumbai",
+      "joburg",
+      "bengaluru",
+      "milan",
+      "shanghai",
+      "stockholm",
+      "new-york",
+      "sao-paulo",
+      "riyadh",
+      "seoul",
+      "tokyo",
+      "zurich",
+      "jakarta",
+      "miami",
+      "copenhagen",
+      "brussels",
+      "montreal",
+      "tel-aviv",
+      "houston",
+      "madrid",
+      "atlanta",
+      "osaka"
+    ]
+  },
+  "sources": {
+    "developer_stack": {
+      "file": "developer-stack.json",
+      "sha256": "58954831e9bd8a10a2a70183c5f397c686b3032cd03d29822a3f25b89d5e4e66"
+    }
+  }
+}
