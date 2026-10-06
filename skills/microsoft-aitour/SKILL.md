@@ -19,16 +19,29 @@ sessions, not the complete conference schedule.
 
 ## Session catalog
 
-Always fetch the catalog from this aka.ms URL:
+First try fetching the catalog from this aka.ms URL:
 
 ```text
 https://aka.ms/aitour2027-session-info
 ```
 
-The aka.ms link should resolve directly to the public raw JSON file. Read the
-catalog once per conversation and reuse it. If it cannot be fetched or its
-shape is unexpected, explain that session information is unavailable and send
-the attendee to https://aitour.microsoft.com/ rather than guessing.
+The aka.ms link should resolve directly to the public raw JSON file. If the
+fetch fails (including a 404 from a private staging repository), is blocked,
+or returns an unexpected payload, disclose the problem and look for
+`session-catalog.json` at the current project repository root. If absent,
+check the resource-center repository root two directories above this skill
+file, but only when the skill is still inside that repository's
+`skills/microsoft-aitour/` directory. Do not assume a copied or installed
+skill folder includes the catalog, or search unrelated directories.
+
+Accept either source only if it is a JSON object with `schema_version: 1`,
+`event_id: "aitour27"`, and `sessions` and `cities` arrays. If a local file is
+invalid, explain why rather than treating it as a usable catalog. When using
+the fallback, say you are using a local catalog snapshot and report its
+`generated_at`; do not imply the remote catalog was retrieved successfully.
+If neither source is usable, explain that session information is unavailable
+and send the attendee to https://aitour.microsoft.com/ rather than guessing.
+Read the usable catalog once per conversation and reuse it.
 
 The catalog has `sessions` and `cities` arrays. Relevant session fields:
 

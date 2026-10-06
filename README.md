@@ -105,6 +105,11 @@ stack and tell me which AI Tour sessions in Singapore fit.”
 
 ### What to expect
 
+- The skill tries [the catalog aka link](https://aka.ms/aitour2027-session-info)
+  first. If that fetch fails, it can use `session-catalog.json` at the root
+  of the current repository or the resource-center checkout and will identify
+  it as a local snapshot. This supports testing in a clone or Codespace while
+  the staging catalog is private.
 - The catalog contains a snapshot of technical sessions and city mappings,
   not the complete conference schedule. An unmapped city means availability
   is unknown, not that no sessions are available.
