@@ -29,10 +29,10 @@ The aka.ms link should resolve directly to the public raw JSON file. If the
 fetch fails (including a 404 from a private staging repository), is blocked,
 or returns an unexpected payload, disclose the problem and look for
 `session-catalog.json` at the current project repository root. If absent,
-check the resource-center repository root two directories above this skill
-file, but only when the skill is still inside that repository's
-`skills/microsoft-aitour/` directory. Do not assume a copied or installed
-skill folder includes the catalog, or search unrelated directories.
+check the resource-center repository root three directory levels above this
+skill directory, but only when the skill is still inside that repository's
+`.agents/skills/microsoft-aitour/` directory. Do not assume an installed skill
+folder includes the catalog, or search unrelated directories.
 
 Accept either source only if it is a JSON object with `schema_version: 1`,
 `event_id: "aitour27"`, and `sessions` and `cities` arrays. If a local file is

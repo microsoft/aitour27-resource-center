@@ -80,36 +80,33 @@ Browse session repos by conversation (topic) below. Click a repo to get the code
 
 ## AI Tour Agent Skill
 
-This repository includes a standalone skill at
-[`skills/microsoft-aitour/`](skills/microsoft-aitour/). It helps attendees find
-sessions relevant to their interests or project stack, review published
-session resources, and build a preferred-session list. It does not require a
-separate extension package.
+The skill lives in [`.agents/skills/microsoft-aitour/`](.agents/skills/microsoft-aitour/)
+and is discovered by GitHub Copilot when you open this repository. No copying,
+plugin, or CLI installation is needed to try it here.
 
-### Install and use
+### Try it now in Codespaces
 
-Copy the `skills/microsoft-aitour/` folder into a skill location recognized by
-your agent:
+[Open this branch in GitHub Codespaces](https://codespaces.new/mikekinsman/aitour27-resource-center?quickstart=1&ref=feature/standalone-ai-tour-skill).
 
-| Agent | Skill location |
-|-------|----------------|
-| Claude Code | `~/.claude/skills/microsoft-aitour/` or `.claude/skills/microsoft-aitour/` in a project |
-| GitHub Copilot CLI | `~/.copilot/skills/microsoft-aitour/` or `.agents/skills/microsoft-aitour/` |
-| VS Code Copilot | `.github/skills/microsoft-aitour/` or `.agents/skills/microsoft-aitour/` in a project |
-| Visual Studio | See [Visual Studio agent skill locations](https://learn.microsoft.com/visualstudio/ide/copilot-agent-skills) |
+### Install and use with GitHub Copilot
 
-In Copilot CLI, from the cloned repository you can add the skill with
-`copilot skill add .\skills\microsoft-aitour`, then reload with
-`/skills reload`. Invoke it with `/microsoft-aitour`, or ask: “Look at my
-stack and tell me which AI Tour sessions in Singapore fit.”
+**VS Code or Codespaces:** Open this repository, open **Copilot Chat**, and
+select **Agent** mode. The skill is discovered from `.agents/skills/`—no copy
+or plugin installation is needed. Try: “Use the microsoft-aitour skill to find
+sessions in Singapore that fit my project.”
+
+**Copilot CLI:** From this repository, run `copilot` and invoke
+`/microsoft-aitour`. To add it as a personal skill from the local checkout, run
+`copilot skill add ./.agents/skills/microsoft-aitour`, then use `/skills reload`.
+
+GitHub Free personal accounts include a monthly Codespaces allowance, and
+Copilot Free includes limited agent usage. See [Codespaces billing](https://docs.github.com/en/billing/concepts/product-billing/github-codespaces)
+and [Copilot plans](https://docs.github.com/en/copilot/get-started/plans) for
+current limits.
 
 ### What to expect
 
-- The skill tries [the catalog aka link](https://aka.ms/aitour2027-session-info)
-  first. If that fetch fails, it can use `session-catalog.json` at the root
-  of the current repository or the resource-center checkout and will identify
-  it as a local snapshot. This supports testing in a clone or Codespace while
-  the staging catalog is private.
+- Session information comes from the [AI Tour session catalog](https://aka.ms/aitour2027-session-info).
 - The catalog contains a snapshot of technical sessions and city mappings,
   not the complete conference schedule. An unmapped city means availability
   is unknown, not that no sessions are available.
