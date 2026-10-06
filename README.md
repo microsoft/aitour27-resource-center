@@ -84,16 +84,13 @@ The skill lives in [`.agents/skills/microsoft-aitour/`](.agents/skills/microsoft
 and is discovered by GitHub Copilot when you open this repository. No copying,
 plugin, or CLI installation is needed to try it here.
 
-### Try it now in Codespaces
-
-[Open this branch in GitHub Codespaces](https://codespaces.new/mikekinsman/aitour27-resource-center?quickstart=1&ref=feature/standalone-ai-tour-skill).
-
 ### Install and use with GitHub Copilot
 
-**VS Code or Codespaces:** Open this repository, open **Copilot Chat**, and
-select **Agent** mode. The skill is discovered from `.agents/skills/`—no copy
-or plugin installation is needed. Try: “Use the microsoft-aitour skill to find
-sessions in Singapore that fit my project.”
+**VS Code or Codespaces:** On the repository page, choose **Code** >
+**Codespaces** > **Create codespace on [branch]**. When the Codespace opens,
+open **Copilot Chat** and select **Agent** mode. The skill is discovered from
+`.agents/skills/`—no copy or plugin installation is needed. Try: “Use the
+microsoft-aitour skill to find sessions in Singapore that fit my project.”
 
 **Copilot CLI:** From this repository, run `copilot` and invoke
 `/microsoft-aitour`. To add it as a personal skill from the local checkout, run
