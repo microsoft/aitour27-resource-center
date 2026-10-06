@@ -7,7 +7,7 @@
 
 ## 🔥 AI Tour 27 Resource Center
 
-Thanks for attending Microsoft AI Tour 2027!
+Explore session resources and prepare for Microsoft AI Tour 2027.
 
 Recordings, code, and demos from all technical sessions at AI Tour are available from this repository. For beginners and experts, you can enhance your skill-building and stay engaged. Dive into the resources below to further your knowledge and apply what you've learned in practical scenarios.
 
@@ -30,11 +30,7 @@ Browse session repos by conversation (topic) below. Click a repo to get the code
 
 | Code | Repo |
 |------|------|
-| BRK120 | [The New Frontier of Agentic Work](https://github.com/microsoft/aitour27-BRK120-the-new-frontier-of-agentic-work) |
-| BRK221 | [From Assistant to Autopilot: The AI Spectrum](https://github.com/microsoft/aitour27-BRK221-from-assistant-to-autopilot-the-ai-spectrum) |
 | ILL224 | [See How Far One Agent Goes in Copilot Studio](https://github.com/microsoft/aitour27-ILL224-see-how-far-one-agent-goes-in-copilot-studio) |
-| LTG122 | [The Copilot Adoption Playbook: Practical Steps to Get Started](https://github.com/microsoft/aitour27-LTG122-the-copilot-adoption-playbook-practical-steps-to-get-started) |
-| LTG123 | [*Name to be confirmed*](https://github.com/microsoft/aitour27-LTG123-name-to-be-confirmed) |
 
 #### Ubiquitous Innovation
 
@@ -45,45 +41,17 @@ Browse session repos by conversation (topic) below. Click a repo to get the code
 | ILL234 | [Coding with Agents in GitHub Copilot CLI](https://github.com/microsoft/aitour27-ILL234-coding-with-agents-in-github-copilot-cli) |
 | ILL335 | [Building & deploying AI agents with Microsoft Foundry](https://github.com/microsoft/aitour27-ILL335-building-deploying-ai-agents-with-microsoft-foundry) |
 | LTG232 | [Agent development beyond Hello World](https://github.com/microsoft/aitour27-LTG232-agent-development-beyond-hello-world) |
-| LTG233 | [Automating business processes with Copilot Studio](https://github.com/microsoft/aitour27-LTG233-automating-business-processes-with-copilot-studio) |
-| LTG236 | [GitHub Copilot App: Enabling agentic workflow](https://github.com/microsoft/aitour27-LTG236-github-copilot-app-enabling-agentic-workflow) |
 
 #### Amplify your intelligence
 
 | Code | Repo |
 |------|------|
 | BRK240 | [Building context-aware agents with Microsoft IQ](https://github.com/microsoft/aitour27-BRK240-building-context-aware-agents-with-microsoft-iq) |
-| BRK241 | [Work IQ: add workplace intelligence to your agents](https://github.com/microsoft/aitour27-BRK241-work-iq-add-workplace-intelligence-to-your-agents) |
 | ILL344 | [Turning data into agent-ready knowledge with Microsoft IQ](https://github.com/microsoft/aitour27-ILL344-turning-data-into-agent-ready-knowledge-with-microsoft-iq) |
 | LTG242 | [Knowledge retrieval for AI agents with Foundry IQ](https://github.com/microsoft/aitour27-LTG242-knowledge-retrieval-for-ai-agents-with-foundry-iq) |
 | LTG243 | [Fabric IQ: From rows to reliable answers](https://github.com/microsoft/aitour27-LTG243-fabric-iq-from-rows-to-reliable-answers) |
 
-#### Establish a trusted and secure platform for AI
-
-| Code | Repo |
-|------|------|
-| BRK250 | [Securing the Frontier: Defense in the Age of Agentic AI](https://github.com/microsoft/aitour27-BRK250-securing-the-frontier-defense-in-the-age-of-agentic-ai) |
-| BRK251 | [Zero Trust for AI: From Architecture to Real-World Implementation](https://github.com/microsoft/aitour27-BRK251-zero-trust-for-ai-from-architecture-to-real-world-implementation) |
-| LTG152 | [Protect continuously and proactively with multi-agent defense](https://github.com/microsoft/aitour27-LTG152-name-to-be-confirmed) |
-| LTG153 | [Find and fix vulnerabilities faster with multi-model agentic security](https://github.com/microsoft/aitour27-LTG153-name-to-be-confirmed) |
-
 ### Core
-
-#### AI-ready productivity & security for every employee
-
-| Code | Repo |
-|------|------|
-| BRK260 | [Build the trusted foundation to scale AI](https://github.com/microsoft/aitour27-BRK260-build-the-trusted-foundation-to-scale-ai) |
-| LTG161 | [Show, Don't Tell: Helping Teams Discover the Value of Copilot](https://github.com/microsoft/aitour27-LTG161-show-dont-tell-helping-teams-discover-the-value-of-copilot) |
-| LTG162 | [From AI Pilots to Agentic Work: Why Windows Matters More Than Ever](https://github.com/microsoft/aitour27-LTG162-from-ai-pilots-to-agentic-work-why-windows-matters-more-than-ever) |
-| LTG163 | [Scale your intelligence on Windows with Surface](https://github.com/microsoft/aitour27-LTG163-scale-your-intelligence-on-windows-with-surface) |
-
-#### Agentify your business processes
-
-| Code | Repo |
-|------|------|
-| BRK270 | [Transform business processes with AI](https://github.com/microsoft/aitour27-BRK270-transform-business-processes-with-ai) |
-| LTG271 | [Dynamics 365 in your flow of work with Copilot Cowork](https://github.com/microsoft/aitour27-LTG271-dynamics-365-in-your-flow-of-work-with-copilot-cowork) |
 
 #### Modernize with confidence
 
@@ -101,18 +69,6 @@ Browse session repos by conversation (topic) below. Click a repo to get the code
 | ILL392 | [Build agentic AI Postgres apps on Azure HorizonDB](https://github.com/microsoft/aitour27-ILL392-build-agentic-ai-postgres-apps-on-azure-horizondb) |
 | LTG291 | [Turn your data into production apps with Rayfin](https://github.com/microsoft/aitour27-LTG291-turn-your-data-into-production-apps-with-rayfin) |
 
-### Additional sessions
-
-These labs don't currently map to a conversation in the FY27 content framework:
-
-| Code | Repo |
-|------|------|
-| ILL110 | [From AI Spend to AI Strategy](https://github.com/microsoft/aitour27-ILL110-from-ai-spend-to-ai-strategy) |
-| ILL125 | [Turn Agent Ideas Into Business Value](https://github.com/microsoft/aitour27-ILL125-turn-agent-ideas-into-business-value) |
-
-> [!NOTE]
-> Grouped by conversation (topic) per the FY27 AI Tour Content Framework, with titles locked as of the 8/14/26 deck. Additional Sponsor, Field, and MVP-created Lightning Talks may be offered and are not yet reflected here. Presenters aren't listed since they rotate at each AI Tour stop.
-
 ### 📚 Continued Learning Resources
 
 | Resources | Links | Description |
@@ -120,43 +76,44 @@ These labs don't currently map to a conversation in the FY27 content framework:
 | AI Tour 2027 Resource Center | [https://aka.ms/aitour27-resource-center](https://aka.ms/aitour27-resource-center) | Links to all repos for AI Tour 27 sessions |
 | Microsoft Foundry Community Discord | [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/Pwpvf3TWaw)](https://aka.ms/MicrosoftFoundryDiscord-AITour27) | Connect with the Microsoft Foundry Community! |
 | Microsoft Foundry Developer Forum | [![Microsoft Foundry Developer Forum](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=adff2f&logoColor=fff)](https://aka.ms/MicrosoftFoundryForum-AITour27) | Join the Microsoft Foundry Developer Forum! |
-| Skilling at Microsoft | [Skilling-at-Microsoft.md](Skilling-at-Microsoft.md) | Global skilling programs and learning paths to keep growing after AI Tour |
+| Skilling at Microsoft | [Skilling-at-Microsoft.md](Skilling-at-Microsoft.md) | Skilling and learning paths to keep growing after AI Tour |
 
 ## AI Tour Agent Skill
 
-This repo also packages an agent skill that connects your development
-environment to the **global AI Tour 2027 session catalog** - discover
-sessions relevant to your project or interests, get session content (code
-and video when available), scaffold a project from a session repo, and build
-a prioritized session list to check against city-specific availability at
-[aitour.microsoft.com](https://aitour.microsoft.com).
+This repository includes a standalone skill at
+[`skills/microsoft-aitour/`](skills/microsoft-aitour/). It helps attendees find
+sessions relevant to their interests or project stack, review published
+session resources, and build a preferred-session list. It does not require a
+separate extension package.
 
-It works without Node.js or npm - no `@microsoft/events-cli` install
-required. It reads the published AI Tour JSON catalog and this repo's
-content directly. (Optional: the Microsoft Learn MCP Server is used for
-documentation lookups when available.)
+### Install and use
 
-### Supported Clients
+Copy the `skills/microsoft-aitour/` folder into a skill location recognized by
+your agent:
 
-| Client | Configuration |
-|--------|---------------|
-| GitHub Copilot CLI | `/plugin install microsoft/aitour27-resource-center` then `/restart` |
-| VS Code | Open Extensions (Ctrl+Shift+X), search `@agentPlugins microsoft-aitour`, and install |
-| Visual Studio 2026 | Copy `skills/microsoft-aitour/` to a [supported skill location](https://learn.microsoft.com/visualstudio/ide/copilot-agent-skills) |
-| Claude Code | `/plugin marketplace add microsoft/aitour27-resource-center` then `/plugin install microsoft-aitour@microsoft-aitour-marketplace` |
+| Agent | Skill location |
+|-------|----------------|
+| Claude Code | `~/.claude/skills/microsoft-aitour/` or `.claude/skills/microsoft-aitour/` in a project |
+| GitHub Copilot CLI | `~/.copilot/skills/microsoft-aitour/` or `.agents/skills/microsoft-aitour/` |
+| VS Code Copilot | `.github/skills/microsoft-aitour/` or `.agents/skills/microsoft-aitour/` in a project |
+| Visual Studio | See [Visual Studio agent skill locations](https://learn.microsoft.com/visualstudio/ide/copilot-agent-skills) |
 
-### Scope and limitations
+In Copilot CLI, from the cloned repository you can add the skill with
+`copilot skill add .\skills\microsoft-aitour`, then reload with
+`/skills reload`. Invoke it with `/microsoft-aitour`, or ask: “Look at my
+stack and tell me which AI Tour sessions in Singapore fit.”
 
-- **Global catalog, not a schedule:** The skill covers the full AI Tour
-  session set. It does not know which sessions run at your specific city
-  stop, or their date/time/room - check
-  [aitour.microsoft.com](https://aitour.microsoft.com) for that.
-- **Session identity:** Global codes (e.g. `BRK123`) and city-suffixed codes
-  (e.g. `BRK123-SP`, `BRK123-PAR`) refer to the same session for content and
-  interest matching.
-- **List, not a calendar:** The skill helps build an interest-prioritized
-  session shortlist and can export it, but it does not calculate or promise
-  freedom from city schedule conflicts.
+### What to expect
+
+- The catalog contains a snapshot of technical sessions and city mappings,
+  not the complete conference schedule. An unmapped city means availability
+  is unknown, not that no sessions are available.
+- For registration, use the attendee's city landing page when its link is
+  known and click **Request to attend**. Otherwise, watch
+  the [AI Tour city directory](https://aitour.microsoft.com/flow/microsoft/aitour27/citydirectory/page/citydirectory)
+  and select **Notify me** for the city if available.
+- The preferred-session list is not a calendar. Confirm availability, times,
+  and rooms at [aitour.microsoft.com](https://aitour.microsoft.com/).
 
 ## Responsible AI
 
