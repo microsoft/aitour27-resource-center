@@ -1,0 +1,15 @@
+{
+  "name": "microsoft-ignite-2027",
+  "description": "Discover Microsoft AI Tour 2027 sessions and published resources with the microsoft-aitour skill, and connect to Microsoft Learn MCP.",
+  "version": "1.0.1",
+  "author": {
+    "name": "Microsoft AI Tour team",
+    "url": "https://www.microsoft.com"
+  },
+  "homepage": "https://github.com/mikekinsman/aitour27-resource-center",
+  "repository": "https://github.com/mikekinsman/aitour27-resource-center",
+  "license": "MIT",
+  "keywords": ["microsoft", "ai-tour", "events", "sessions", "learn"],
+  "skills": "./.agents/skills/",
+  "mcpServers": "./.mcp.json"
+}

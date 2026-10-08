@@ -81,8 +81,44 @@ Browse session repos by conversation (topic) below. Click a repo to get the code
 ## AI Tour Agent Skill
 
 The skill lives in [`.agents/skills/microsoft-aitour/`](.agents/skills/microsoft-aitour/)
-and is discovered by GitHub Copilot when you open this repository. No copying,
-plugin, or CLI installation is needed to try it here.
+and is discovered by GitHub Copilot when you open this repository. No copying
+or plugin installation is needed to try it here.
+
+### Install as a plugin
+
+The `microsoft-ignite-2027` plugin, version **1.0.1**, packages the existing
+`microsoft-aitour` skill and a connection to the hosted Microsoft Learn MCP
+server. Despite the plugin name, its current skill covers **AI Tour 2027**,
+not Ignite-specific content.
+
+The configurations below target the development branch in the fork.
+
+**GitHub Copilot CLI:** From any project, run:
+
+```text
+/plugin install mikekinsman/aitour27-resource-center#feature/standalone-ai-tour-skill
+/restart
+```
+
+**Claude Code:** Register the fork's development branch as a marketplace,
+then install the plugin:
+
+```text
+/plugin marketplace add https://github.com/mikekinsman/aitour27-resource-center.git#feature/standalone-ai-tour-skill
+/plugin install microsoft-ignite-2027@microsoft-ignite-2027-marketplace
+```
+
+Try: "Find AI Tour sessions in Singapore that fit my project."
+
+Both clients load the same skill from `.agents/skills/` and the same Learn MCP
+configuration from the repository-root [`.mcp.json`](.mcp.json). The plugin
+manifests explicitly reference both locations:
+[Copilot CLI](.github/plugin/plugin.json) and
+[Claude Code](.claude-plugin/plugin.json).
+
+The Learn MCP connection makes documentation tools available to the assistant;
+it connects to a hosted service rather than installing a local server. The
+AI Tour skill still keeps Learn documentation lookups outside its scope.
 
 ### Install and use with GitHub Copilot
 
