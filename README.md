@@ -11,38 +11,6 @@ Explore session resources and prepare for Microsoft AI Tour 2027.
 
 Recordings, code, and demos from all technical sessions at AI Tour are available from this repository. For beginners and experts, you can enhance your skill-building and stay engaged. Dive into the resources below to further your knowledge and apply what you've learned in practical scenarios.
 
-## Get started
-
-Use the AI Tour skill to find sessions for your interests or project:
-
-**GitHub Copilot CLI:** Install the plugin, restart Copilot, then ask it a
-question:
-
-```text
-/plugin install mikekinsman/aitour27-resource-center#feature/standalone-ai-tour-skill
-/restart
-```
-
-Then ask: "Find AI Tour sessions in Singapore that fit my project."
-
-**Claude Code:** Add the marketplace and install the plugin, then ask the same
-question:
-
-```text
-/plugin marketplace add https://github.com/mikekinsman/aitour27-resource-center.git#feature/standalone-ai-tour-skill
-/plugin install microsoft-aitour-2027@microsoft-aitour-2027-marketplace
-```
-
-Then ask: "Find AI Tour sessions in Singapore that fit my project."
-
-If you're already using Copilot in this repository, the skill is available
-without installing the plugin. Open Copilot Chat or Copilot CLI and ask the
-question directly.
-
-The session catalog is a snapshot of technical sessions, not the full event
-schedule. Confirm session times and registration at
-[aitour.microsoft.com](https://aitour.microsoft.com/).
-
 ## AI Tour 2027 Conversations
 
 | FRONTIER | CORE |
@@ -100,6 +68,38 @@ Browse session repos by conversation (topic) below. Click a repo to get the code
 | BRK390 | [Building AI applications with Microsoft Databases and Fabric](https://github.com/microsoft/aitour27-BRK390-building-ai-applications-with-microsoft-databases-and-fabric) |
 | ILL392 | [Build agentic AI Postgres apps on Azure HorizonDB](https://github.com/microsoft/aitour27-ILL392-build-agentic-ai-postgres-apps-on-azure-horizondb) |
 | LTG291 | [Turn your data into production apps with Rayfin](https://github.com/microsoft/aitour27-LTG291-turn-your-data-into-production-apps-with-rayfin) |
+
+## Get started
+
+Use the AI Tour skill to find sessions for your interests or project:
+
+**GitHub Copilot CLI:** Install the plugin, restart Copilot, then ask it a
+question:
+
+```text
+/plugin install mikekinsman/aitour27-resource-center#feature/standalone-ai-tour-skill
+/restart
+```
+
+Then ask: "Find AI Tour sessions in Singapore that fit my project."
+
+**Claude Code:** Add the marketplace and install the plugin, then ask the same
+question:
+
+```text
+/plugin marketplace add https://github.com/mikekinsman/aitour27-resource-center.git#feature/standalone-ai-tour-skill
+/plugin install microsoft-aitour-2027@microsoft-aitour-2027-marketplace
+```
+
+Then ask: "Find AI Tour sessions in Singapore that fit my project."
+
+If you're already using Copilot in this repository, the skill is available
+without installing the plugin. Open Copilot Chat or Copilot CLI and ask the
+question directly.
+
+The session catalog is a snapshot of technical sessions, not the full event
+schedule. Confirm session times and registration at
+[aitour.microsoft.com](https://aitour.microsoft.com/).
 
 ### 📚 Continued Learning Resources
 
