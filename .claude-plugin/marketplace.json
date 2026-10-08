@@ -1,11 +1,11 @@
 {
-  "name": "microsoft-ignite-2027-marketplace",
+  "name": "microsoft-aitour-2027-marketplace",
   "owner": {
     "name": "Microsoft AI Tour team"
   },
   "plugins": [
     {
-      "name": "microsoft-ignite-2027",
+      "name": "microsoft-aitour-2027",
       "source": "./",
       "description": "Discover Microsoft AI Tour 2027 sessions and published resources, and connect to Microsoft Learn MCP."
     }

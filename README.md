@@ -86,7 +86,7 @@ or plugin installation is needed to try it here.
 
 ### Install as a plugin
 
-The `microsoft-ignite-2027` plugin, version **1.0.1**, packages the existing
+The `microsoft-aitour-2027` plugin, version **1.0.1**, packages the existing
 `microsoft-aitour` skill and a connection to the hosted Microsoft Learn MCP
 server. Despite the plugin name, its current skill covers **AI Tour 2027**,
 not Ignite-specific content.
@@ -105,7 +105,7 @@ then install the plugin:
 
 ```text
 /plugin marketplace add https://github.com/mikekinsman/aitour27-resource-center.git#feature/standalone-ai-tour-skill
-/plugin install microsoft-ignite-2027@microsoft-ignite-2027-marketplace
+/plugin install microsoft-aitour-2027@microsoft-aitour-2027-marketplace
 ```
 
 Try: "Find AI Tour sessions in Singapore that fit my project."
