@@ -87,9 +87,8 @@ or plugin installation is needed to try it here.
 ### Install as a plugin
 
 The `microsoft-aitour-2027` plugin, version **1.0.1**, packages the existing
-`microsoft-aitour` skill and a connection to the hosted Microsoft Learn MCP
-server. Despite the plugin name, its current skill covers **AI Tour 2027**,
-not Ignite-specific content.
+`microsoft-aitour` skill for **AI Tour 2027** and a connection to the hosted
+Microsoft Learn MCP server.
 
 The configurations below target the development branch in the fork.
 
