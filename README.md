@@ -11,6 +11,38 @@ Explore session resources and prepare for Microsoft AI Tour 2027.
 
 Recordings, code, and demos from all technical sessions at AI Tour are available from this repository. For beginners and experts, you can enhance your skill-building and stay engaged. Dive into the resources below to further your knowledge and apply what you've learned in practical scenarios.
 
+## Get started
+
+Use the AI Tour skill to find sessions for your interests or project:
+
+**GitHub Copilot CLI:** Install the plugin, restart Copilot, then ask it a
+question:
+
+```text
+/plugin install mikekinsman/aitour27-resource-center#feature/standalone-ai-tour-skill
+/restart
+```
+
+Then ask: "Find AI Tour sessions in Singapore that fit my project."
+
+**Claude Code:** Add the marketplace and install the plugin, then ask the same
+question:
+
+```text
+/plugin marketplace add https://github.com/mikekinsman/aitour27-resource-center.git#feature/standalone-ai-tour-skill
+/plugin install microsoft-aitour-2027@microsoft-aitour-2027-marketplace
+```
+
+Then ask: "Find AI Tour sessions in Singapore that fit my project."
+
+If you're already using Copilot in this repository, the skill is available
+without installing the plugin. Open Copilot Chat or Copilot CLI and ask the
+question directly.
+
+The session catalog is a snapshot of technical sessions, not the full event
+schedule. Confirm session times and registration at
+[aitour.microsoft.com](https://aitour.microsoft.com/).
+
 ## AI Tour 2027 Conversations
 
 | FRONTIER | CORE |
@@ -77,77 +109,6 @@ Browse session repos by conversation (topic) below. Click a repo to get the code
 | Microsoft Foundry Community Discord | [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/Pwpvf3TWaw)](https://aka.ms/MicrosoftFoundryDiscord-AITour27) | Connect with the Microsoft Foundry Community! |
 | Microsoft Foundry Developer Forum | [![Microsoft Foundry Developer Forum](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=adff2f&logoColor=fff)](https://aka.ms/MicrosoftFoundryForum-AITour27) | Join the Microsoft Foundry Developer Forum! |
 | Skilling at Microsoft | [Skilling-at-Microsoft.md](Skilling-at-Microsoft.md) | Skilling and learning paths to keep growing after AI Tour |
-
-## AI Tour Agent Skill
-
-The skill lives in [`.agents/skills/microsoft-aitour/`](.agents/skills/microsoft-aitour/)
-and is discovered by GitHub Copilot when you open this repository. No copying
-or plugin installation is needed to try it here.
-
-### Install as a plugin
-
-The `microsoft-aitour-2027` plugin, version **1.0.1**, packages the existing
-`microsoft-aitour` skill for **AI Tour 2027** and a connection to the hosted
-Microsoft Learn MCP server.
-
-The configurations below target the development branch in the fork.
-
-**GitHub Copilot CLI:** From any project, run:
-
-```text
-/plugin install mikekinsman/aitour27-resource-center#feature/standalone-ai-tour-skill
-/restart
-```
-
-**Claude Code:** Register the fork's development branch as a marketplace,
-then install the plugin:
-
-```text
-/plugin marketplace add https://github.com/mikekinsman/aitour27-resource-center.git#feature/standalone-ai-tour-skill
-/plugin install microsoft-aitour-2027@microsoft-aitour-2027-marketplace
-```
-
-Try: "Find AI Tour sessions in Singapore that fit my project."
-
-Both clients load the same skill from `.agents/skills/` and the same Learn MCP
-configuration from the repository-root [`.mcp.json`](.mcp.json). The plugin
-manifests explicitly reference both locations:
-[Copilot CLI](.github/plugin/plugin.json) and
-[Claude Code](.claude-plugin/plugin.json).
-
-The Learn MCP connection makes documentation tools available to the assistant;
-it connects to a hosted service rather than installing a local server. The
-AI Tour skill still keeps Learn documentation lookups outside its scope.
-
-### Install and use with GitHub Copilot
-
-**VS Code or Codespaces:** On the repository page, choose **Code** >
-**Codespaces** > **Create codespace on [branch]**. When the Codespace opens,
-open **Copilot Chat** and select **Agent** mode. The skill is discovered from
-`.agents/skills/`—no copy or plugin installation is needed. Try: “Use the
-microsoft-aitour skill to find sessions in Singapore that fit my project.”
-
-**Copilot CLI:** From this repository, run `copilot` and invoke
-`/microsoft-aitour`. To add it as a personal skill from the local checkout, run
-`copilot skill add ./.agents/skills/microsoft-aitour`, then use `/skills reload`.
-
-GitHub Free personal accounts include a monthly Codespaces allowance, and
-Copilot Free includes limited agent usage. See [Codespaces billing](https://docs.github.com/en/billing/concepts/product-billing/github-codespaces)
-and [Copilot plans](https://docs.github.com/en/copilot/get-started/plans) for
-current limits.
-
-### What to expect
-
-- Session information comes from the [AI Tour session catalog](https://aka.ms/aitour2027-session-info).
-- The catalog contains a snapshot of technical sessions and city mappings,
-  not the complete conference schedule. An unmapped city means availability
-  is unknown, not that no sessions are available.
-- For registration, use the attendee's city landing page when its link is
-  known and click **Request to attend**. Otherwise, watch
-  the [AI Tour city directory](https://aitour.microsoft.com/flow/microsoft/aitour27/citydirectory/page/citydirectory)
-  and select **Notify me** for the city if available.
-- The preferred-session list is not a calendar. Confirm availability, times,
-  and rooms at [aitour.microsoft.com](https://aitour.microsoft.com/).
 
 ## Responsible AI
 
