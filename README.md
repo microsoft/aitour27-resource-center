@@ -71,7 +71,8 @@ Browse session repos by conversation (topic) below. Click a repo to get the code
 
 ## Browse sessions with the AI Tour skill
 
-Use the AI Tour skill to find sessions for your interests or project:
+Install the AI Tour plugin in your assistant. It includes the AI Tour skill and
+connects Microsoft Learn MCP—no separate setup is needed.
 
 **GitHub Copilot CLI:** Install the plugin, restart Copilot, then ask it a
 question:
@@ -81,21 +82,28 @@ question:
 /restart
 ```
 
-Then ask: "Find AI Tour sessions in Singapore that fit my project."
-
-**Claude Code:** Add the marketplace and install the plugin, then ask the same
-question:
+**Claude Code:** Add the marketplace and install the plugin:
 
 ```text
 /plugin marketplace add https://github.com/mikekinsman/aitour27-resource-center.git#feature/standalone-ai-tour-skill
 /plugin install microsoft-aitour-2027@microsoft-aitour-2027-marketplace
 ```
 
-Then ask: "Find AI Tour sessions in Singapore that fit my project."
+After installing, try these prompts:
+
+1. "What cities are included in AI Tour?"
+2. "Find AI Tour sessions in Singapore that fit my project."
 
 If you're already using Copilot in this repository, the skill is available
 without installing the plugin. Open Copilot Chat or Copilot CLI and ask the
 question directly.
+
+When you ask it to match sessions to your project, the skill inspects relevant
+project files and dependencies, then compares them with session titles,
+descriptions, products, topics, languages, and tags. It explains why each
+session matches and distinguishes direct technology matches from adjacent
+topics. It does not inspect your project unless you ask for a project or stack
+match.
 
 The session catalog is a snapshot of technical sessions, not the full event
 schedule. Confirm session times and registration at
