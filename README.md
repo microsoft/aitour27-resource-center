@@ -69,7 +69,7 @@ Browse session repos by conversation (topic) below. Click a repo to get the code
 | ILL392 | [Build agentic AI Postgres apps on Azure HorizonDB](https://github.com/microsoft/aitour27-ILL392-build-agentic-ai-postgres-apps-on-azure-horizondb) |
 | LTG291 | [Turn your data into production apps with Rayfin](https://github.com/microsoft/aitour27-LTG291-turn-your-data-into-production-apps-with-rayfin) |
 
-## Get started
+## Browse sessions with the AI Tour skill
 
 Use the AI Tour skill to find sessions for your interests or project:
 
