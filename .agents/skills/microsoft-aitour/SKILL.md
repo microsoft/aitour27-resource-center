@@ -19,26 +19,26 @@ sessions, not the complete conference schedule.
 
 ## Session catalog
 
-First try fetching the catalog from this aka.ms URL:
+Try fetching the catalog from this aka.ms URL:
 
 ```text
 https://aka.ms/aitour2027-session-info
 ```
 
-The aka.ms link should resolve directly to the public raw JSON file. If the
-fetch fails (including a 404 from a private staging repository), is blocked,
-or returns an unexpected payload, disclose the problem and look for
-`session-catalog.json` at the current project repository root. If absent,
-check the resource-center repository root three directory levels above this
-skill directory, but only when the skill is still inside that repository's
-`.agents/skills/microsoft-aitour/` directory. Do not assume an installed skill
-folder includes the catalog, or search unrelated directories.
+The aka.ms link resolves to the same public JSON snapshot as the local
+`session-catalog.json` fallback; accessing the aka.ms link does not make the
+data more current. If the fetch fails, is blocked, or returns an unexpected
+payload, look for `session-catalog.json` at the current project repository root.
+If absent, check the resource-center repository root three directory levels
+above this skill directory, but only when the skill is still inside that
+repository's `.agents/skills/microsoft-aitour/` directory. Do not assume an
+installed skill folder includes the catalog, or search unrelated directories.
 
 Accept either source only if it is a JSON object with `schema_version: 1`,
-`event_id: "aitour27"`, and `sessions` and `cities` arrays. If a local file is
-invalid, explain why rather than treating it as a usable catalog. When using
-the fallback, say you are using a local catalog snapshot and report its
-`generated_at`; do not imply the remote catalog was retrieved successfully.
+`event_id: "aitour27"`, and `sessions` and `cities` arrays. If a source is
+invalid, explain why rather than treating it as a usable catalog. Always report
+the catalog's `generated_at` date and note that the snapshot may be stale; do
+not present either source as a live schedule.
 If neither source is usable, explain that session information is unavailable
 and send the attendee to https://aitour.microsoft.com/ rather than guessing.
 Read the usable catalog once per conversation and reuse it.
