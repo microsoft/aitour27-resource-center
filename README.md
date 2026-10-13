@@ -78,14 +78,14 @@ connects Microsoft Learn MCP—no separate setup is needed.
 question:
 
 ```text
-/plugin install mikekinsman/aitour27-resource-center#feature/standalone-ai-tour-skill
+/plugin install microsoft/aitour27-resource-center
 /restart
 ```
 
 **Claude Code:** Add the marketplace and install the plugin:
 
 ```text
-/plugin marketplace add https://github.com/mikekinsman/aitour27-resource-center.git#feature/standalone-ai-tour-skill
+/plugin marketplace add https://github.com/microsoft/aitour27-resource-center.git
 /plugin install microsoft-aitour-2027@microsoft-aitour-2027-marketplace
 ```
 

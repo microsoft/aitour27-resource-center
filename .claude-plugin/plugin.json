@@ -6,8 +6,8 @@
     "name": "Microsoft AI Tour team",
     "url": "https://www.microsoft.com"
   },
-  "homepage": "https://github.com/mikekinsman/aitour27-resource-center",
-  "repository": "https://github.com/mikekinsman/aitour27-resource-center",
+  "homepage": "https://github.com/microsoft/aitour27-resource-center",
+  "repository": "https://github.com/microsoft/aitour27-resource-center",
   "license": "MIT",
   "keywords": ["microsoft", "ai-tour", "events", "sessions", "learn"],
   "skills": "./.agents/skills/",
