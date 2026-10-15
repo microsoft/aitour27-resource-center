@@ -1,12 +1,12 @@
 <p align="center">
-<img src="img/skilling-at-microsoft-banner.png" alt="Microsoft AI Tour 2027" width="100%"/>
+<img src="img/skilling-at-microsoft-banner.png" alt="Microsoft Frontier Tour 2027" width="100%"/>
 </p>
 
 # Skilling at Microsoft
 
-Keep building your skills after AI Tour 2027 with these global skilling programs and learning paths.
+Keep building your skills after Frontier Tour 2027 with these global skilling programs and learning paths.
 
-## Microsoft AI Tour
+## Microsoft Frontier Tour
 
 <table>
 <tr>
@@ -51,4 +51,4 @@ Keep building your skills after AI Tour 2027 with these global skilling programs
 </tr>
 </table>
 
-Return to the [AI Tour 27 Resource Center](README.md).
+Return to the [Frontier Tour 27 Resource Center](README.md).
