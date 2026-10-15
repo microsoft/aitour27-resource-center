@@ -1,17 +1,17 @@
 
 <p align="center">
-<img src="img/banner-ai-tour-27.png" alt="Microsoft AI Tour 2027" width="100%"/>
+<img src="img/banner-frontier-tour-27.png" alt="Microsoft Frontier Tour 2027" width="100%"/>
 </p>
 
-# [Microsoft AI Tour 2027](https://aitour.microsoft.com)
+# [Microsoft Frontier Tour 2027](https://aitour.microsoft.com)
 
-## 🔥 AI Tour 27 Resource Center
+## 🔥 Frontier Tour 27 Resource Center
 
-Thanks for attending Microsoft AI Tour 2027!
+Thanks for attending Microsoft Frontier Tour 2027!
 
-Recordings, code, and demos from all technical sessions at AI Tour are available from this repository. For beginners and experts, you can enhance your skill-building and stay engaged. Dive into the resources below to further your knowledge and apply what you've learned in practical scenarios.
+Recordings, code, and demos from all technical sessions at Frontier Tour are available from this repository. For beginners and experts, you can enhance your skill-building and stay engaged. Dive into the resources below to further your knowledge and apply what you've learned in practical scenarios.
 
-## AI Tour 2027 Conversations
+## Frontier Tour 2027 Conversations
 
 | FRONTIER | CORE |
 | --- | --- |
@@ -72,10 +72,10 @@ Browse session repos by conversation (topic) below. Click a repo to get the code
 
 | Resources | Links | Description |
 |:----------|:------|:-------------|
-| AI Tour 2027 Resource Center | [https://aka.ms/aitour27-resource-center](https://aka.ms/aitour27-resource-center) | Links to all repos for AI Tour 27 sessions |
+| Frontier Tour 2027 Resource Center | [https://aka.ms/FrontierTour27](https://aka.ms/FrontierTour27) | Links to all repos for Frontier Tour 27 sessions |
 | Microsoft Foundry Community Discord | [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/Pwpvf3TWaw)](https://aka.ms/MicrosoftFoundryDiscord-AITour27) | Connect with the Microsoft Foundry Community! |
 | Microsoft Foundry Developer Forum | [![Microsoft Foundry Developer Forum](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=adff2f&logoColor=fff)](https://aka.ms/MicrosoftFoundryForum-AITour27) | Join the Microsoft Foundry Developer Forum! |
-| Skilling at Microsoft | [Skilling-at-Microsoft.md](Skilling-at-Microsoft.md) | Skilling and learning paths to keep growing after AI Tour |
+| Skilling at Microsoft | [Skilling-at-Microsoft.md](Skilling-at-Microsoft.md) | Skilling and learning paths to keep growing after Frontier Tour |
 
 ## Responsible AI
 
