@@ -30,26 +30,26 @@ Browse session repos by conversation (topic) below. Click a repo to get the code
 
 | Code | Repo |
 |------|------|
-| ILL224 | [See How Far One Agent Goes in Copilot Studio](https://github.com/microsoft/aitour27-ILL224-see-how-far-one-agent-goes-in-copilot-studio) |
+| ILL224 | [See How Far One Agent Goes in Copilot Studio](https://github.com/microsoft/frontiertour27-ILL224-see-how-far-one-agent-goes-in-copilot-studio) |
 
 #### Ubiquitous Innovation
 
 | Code | Repo |
 |------|------|
-| BRK231 | [Trusted AI at scale: Foundry to Agent 365](https://github.com/microsoft/aitour27-BRK231-trusted-ai-at-scale-foundry-to-agent-365) |
-| BRK330 | [Optimize agents with Microsoft Foundry & GitHub Copilot](https://github.com/microsoft/aitour27-BRK330-optimize-agents-with-microsoft-foundry-github-copilot) |
-| ILL234 | [Coding with Agents in GitHub Copilot CLI](https://github.com/microsoft/aitour27-ILL234-coding-with-agents-in-github-copilot-cli) |
-| ILL335 | [Building & deploying AI agents with Microsoft Foundry](https://github.com/microsoft/aitour27-ILL335-building-deploying-ai-agents-with-microsoft-foundry) |
-| LTG232 | [Agent development beyond Hello World](https://github.com/microsoft/aitour27-LTG232-agent-development-beyond-hello-world) |
+| BRK231 | [Trusted AI at scale: Foundry to Agent 365](https://github.com/microsoft/frontiertour27-BRK231-trusted-ai-at-scale-foundry-to-agent-365) |
+| BRK330 | [Optimize agents with Microsoft Foundry & GitHub Copilot](https://github.com/microsoft/frontiertour27-BRK330-optimize-agents-with-microsoft-foundry-github-copilot) |
+| ILL234 | [Coding with Agents in GitHub Copilot CLI](https://github.com/microsoft/frontiertour27-ILL234-coding-with-agents-in-github-copilot-cli) |
+| ILL335 | [Building & deploying AI agents with Microsoft Foundry](https://github.com/microsoft/frontiertour27-ILL335-building-deploying-ai-agents-with-microsoft-foundry) |
+| LTG232 | [Agent development beyond Hello World](https://github.com/microsoft/frontiertour27-LTG232-agent-development-beyond-hello-world) |
 
 #### Amplify your intelligence
 
 | Code | Repo |
 |------|------|
-| BRK240 | [Building context-aware agents with Microsoft IQ](https://github.com/microsoft/aitour27-BRK240-building-context-aware-agents-with-microsoft-iq) |
-| ILL344 | [Turning data into agent-ready knowledge with Microsoft IQ](https://github.com/microsoft/aitour27-ILL344-turning-data-into-agent-ready-knowledge-with-microsoft-iq) |
-| LTG242 | [Knowledge retrieval for AI agents with Foundry IQ](https://github.com/microsoft/aitour27-LTG242-knowledge-retrieval-for-ai-agents-with-foundry-iq) |
-| LTG243 | [Fabric IQ: From rows to reliable answers](https://github.com/microsoft/aitour27-LTG243-fabric-iq-from-rows-to-reliable-answers) |
+| BRK240 | [Building context-aware agents with Microsoft IQ](https://github.com/microsoft/frontiertour27-BRK240-building-context-aware-agents-with-microsoft-iq) |
+| ILL344 | [Turning data into agent-ready knowledge with Microsoft IQ](https://github.com/microsoft/frontiertour27-ILL344-turning-data-into-agent-ready-knowledge-with-microsoft-iq) |
+| LTG242 | [Knowledge retrieval for AI agents with Foundry IQ](https://github.com/microsoft/frontiertour27-LTG242-knowledge-retrieval-for-ai-agents-with-foundry-iq) |
+| LTG243 | [Fabric IQ: From rows to reliable answers](https://github.com/microsoft/frontiertour27-LTG243-fabric-iq-from-rows-to-reliable-answers) |
 
 ### Core
 
@@ -57,16 +57,16 @@ Browse session repos by conversation (topic) below. Click a repo to get the code
 
 | Code | Repo |
 |------|------|
-| BRK280 | [From legacy to AI-ready with agentic modernization on Azure](https://github.com/microsoft/aitour27-BRK280-from-legacy-to-ai-ready-with-agentic-modernization-on-azure) |
-| LTG282 | [Agentic Ops with GitHub Copilot App](https://aka.ms/ft27/LTG282)
+| BRK280 | [From legacy to AI-ready with agentic modernization on Azure](https://github.com/microsoft/frontiertour27-BRK280-from-legacy-to-ai-ready-with-agentic-modernization-on-azure) |
+| LTG282 | [Agentic Ops with GitHub Copilot App](https://github.com/microsoft/frontiertour27-LTG282-agentic-ops-with-github-copilot-app) |
 
 #### Build a unified, governed data and AI estate
 
 | Code | Repo |
 |------|------|
-| BRK390 | [Building AI applications with Microsoft Databases and Fabric](https://github.com/microsoft/aitour27-BRK390-building-ai-applications-with-microsoft-databases-and-fabric) |
-| ILL392 | [Build agentic AI Postgres apps on Azure HorizonDB](https://github.com/microsoft/aitour27-ILL392-build-agentic-ai-postgres-apps-on-azure-horizondb) |
-| LTG291 | [Turn your data into production apps with Rayfin](https://github.com/microsoft/aitour27-LTG291-turn-your-data-into-production-apps-with-rayfin) |
+| BRK390 | [Building AI applications with Microsoft Databases and Fabric](https://github.com/microsoft/frontiertour27-BRK390-building-ai-applications-with-microsoft-databases-and-fabric) |
+| ILL392 | [Build agentic AI Postgres apps on Azure HorizonDB](https://github.com/microsoft/frontiertour27-ILL392-build-agentic-ai-postgres-apps-on-azure-horizondb) |
+| LTG291 | [Turn your data into production apps with Rayfin](https://github.com/microsoft/frontiertour27-LTG291-turn-your-data-into-production-apps-with-rayfin) |
 
 
 ### 📚 Continued Learning Resources
