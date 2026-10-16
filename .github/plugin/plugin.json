@@ -1,0 +1,15 @@
+{
+  "name": "microsoft-frontiertour-2027",
+  "description": "Discover Microsoft Frontier Tour 2027 sessions and published resources with the microsoft-frontiertour skill, and connect to Microsoft Learn MCP.",
+  "version": "1.0.1",
+  "author": {
+    "name": "Microsoft Frontier Tour team",
+    "url": "https://www.microsoft.com"
+  },
+  "homepage": "https://github.com/microsoft/frontiertour27-resource-center",
+  "repository": "https://github.com/microsoft/frontiertour27-resource-center",
+  "license": "MIT",
+  "keywords": ["microsoft", "frontier-tour", "events", "sessions", "learn"],
+  "skills": "./.agents/skills/",
+  "mcpServers": "./.mcp.json"
+}

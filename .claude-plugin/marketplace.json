@@ -1,0 +1,13 @@
+{
+  "name": "microsoft-frontiertour-2027-marketplace",
+  "owner": {
+    "name": "Microsoft Frontier Tour team"
+  },
+  "plugins": [
+    {
+      "name": "microsoft-frontiertour-2027",
+      "source": "./",
+      "description": "Discover Microsoft Frontier Tour 2027 sessions and published resources, and connect to Microsoft Learn MCP."
+    }
+  ]
+}

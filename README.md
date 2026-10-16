@@ -68,6 +68,45 @@ Browse session repos by conversation (topic) below. Click a repo to get the code
 | ILL392 | [Build agentic AI Postgres apps on Azure HorizonDB](https://github.com/microsoft/frontiertour27-ILL392-build-agentic-ai-postgres-apps-on-azure-horizondb) |
 | LTG291 | [Turn your data into production apps with Rayfin](https://github.com/microsoft/frontiertour27-LTG291-turn-your-data-into-production-apps-with-rayfin) |
 
+## Browse sessions with the Frontier Tour skill
+
+Install the Frontier Tour plugin in your assistant. It includes the Frontier
+Tour skill and connects Microsoft Learn MCP—no separate setup is needed.
+
+**GitHub Copilot CLI:** Install the plugin, restart Copilot, then ask it a
+question:
+
+```text
+/plugin install microsoft/frontiertour27-resource-center
+/restart
+```
+
+**Claude Code:** Add the marketplace and install the plugin:
+
+```text
+/plugin marketplace add https://github.com/microsoft/frontiertour27-resource-center.git
+/plugin install microsoft-frontiertour-2027@microsoft-frontiertour-2027-marketplace
+```
+
+After installing, try these prompts:
+
+1. "What cities are included in Frontier Tour?"
+2. "Find Frontier Tour sessions in Singapore that fit my project."
+
+If you're already using Copilot in this repository, the skill is available
+without installing the plugin. Open Copilot Chat or Copilot CLI and ask the
+question directly.
+
+When you ask it to match sessions to your project, the skill inspects relevant
+project files and dependencies, then compares them with session titles,
+descriptions, products, topics, languages, and tags. It explains why each
+session matches and distinguishes direct technology matches from adjacent
+topics. It does not inspect your project unless you ask for a project or stack
+match.
+
+The session catalog is a snapshot of technical sessions, not the full event
+schedule. Confirm session times and registration at
+[aitour.microsoft.com](https://aitour.microsoft.com/).
 
 ### 📚 Continued Learning Resources
 
