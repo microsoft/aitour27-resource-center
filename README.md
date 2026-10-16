@@ -1,17 +1,17 @@
 
 <p align="center">
-<img src="img/banner-ai-tour-27.png" alt="Microsoft AI Tour 2027" width="100%"/>
+<img src="img/banner-frontier-tour-27.png" alt="Microsoft Frontier Tour 2027" width="100%"/>
 </p>
 
-# [Microsoft AI Tour 2027](https://aitour.microsoft.com)
+# [Microsoft Frontier Tour 2027](https://aitour.microsoft.com)
 
-## 🔥 AI Tour 27 Resource Center
+## 🔥 Frontier Tour 27 Resource Center
 
-Explore session resources and prepare for Microsoft AI Tour 2027.
+Thanks for attending Microsoft Frontier Tour 2027!
 
-Recordings, code, and demos from all technical sessions at AI Tour are available from this repository. For beginners and experts, you can enhance your skill-building and stay engaged. Dive into the resources below to further your knowledge and apply what you've learned in practical scenarios.
+Recordings, code, and demos from all technical sessions at Frontier Tour are available from this repository. For beginners and experts, you can enhance your skill-building and stay engaged. Dive into the resources below to further your knowledge and apply what you've learned in practical scenarios.
 
-## AI Tour 2027 Conversations
+## Frontier Tour 2027 Conversations
 
 | FRONTIER | CORE |
 | --- | --- |
@@ -30,26 +30,26 @@ Browse session repos by conversation (topic) below. Click a repo to get the code
 
 | Code | Repo |
 |------|------|
-| ILL224 | [See How Far One Agent Goes in Copilot Studio](https://github.com/microsoft/aitour27-ILL224-see-how-far-one-agent-goes-in-copilot-studio) |
+| ILL224 | [See How Far One Agent Goes in Copilot Studio](https://github.com/microsoft/frontiertour27-ILL224-see-how-far-one-agent-goes-in-copilot-studio) |
 
 #### Ubiquitous Innovation
 
 | Code | Repo |
 |------|------|
-| BRK231 | [Trusted AI at scale: Foundry to Agent 365](https://github.com/microsoft/aitour27-BRK231-trusted-ai-at-scale-foundry-to-agent-365) |
-| BRK330 | [Optimize agents with Microsoft Foundry & GitHub Copilot](https://github.com/microsoft/aitour27-BRK330-optimize-agents-with-microsoft-foundry-github-copilot) |
-| ILL234 | [Coding with Agents in GitHub Copilot CLI](https://github.com/microsoft/aitour27-ILL234-coding-with-agents-in-github-copilot-cli) |
-| ILL335 | [Building & deploying AI agents with Microsoft Foundry](https://github.com/microsoft/aitour27-ILL335-building-deploying-ai-agents-with-microsoft-foundry) |
-| LTG232 | [Agent development beyond Hello World](https://github.com/microsoft/aitour27-LTG232-agent-development-beyond-hello-world) |
+| BRK231 | [Trusted AI at scale: Foundry to Agent 365](https://github.com/microsoft/frontiertour27-BRK231-trusted-ai-at-scale-foundry-to-agent-365) |
+| BRK330 | [Optimize agents with Microsoft Foundry & GitHub Copilot](https://github.com/microsoft/frontiertour27-BRK330-optimize-agents-with-microsoft-foundry-github-copilot) |
+| ILL234 | [Coding with Agents in GitHub Copilot CLI](https://github.com/microsoft/frontiertour27-ILL234-coding-with-agents-in-github-copilot-cli) |
+| ILL335 | [Building & deploying AI agents with Microsoft Foundry](https://github.com/microsoft/frontiertour27-ILL335-building-deploying-ai-agents-with-microsoft-foundry) |
+| LTG232 | [Agent development beyond Hello World](https://github.com/microsoft/frontiertour27-LTG232-agent-development-beyond-hello-world) |
 
 #### Amplify your intelligence
 
 | Code | Repo |
 |------|------|
-| BRK240 | [Building context-aware agents with Microsoft IQ](https://github.com/microsoft/aitour27-BRK240-building-context-aware-agents-with-microsoft-iq) |
-| ILL344 | [Turning data into agent-ready knowledge with Microsoft IQ](https://github.com/microsoft/aitour27-ILL344-turning-data-into-agent-ready-knowledge-with-microsoft-iq) |
-| LTG242 | [Knowledge retrieval for AI agents with Foundry IQ](https://github.com/microsoft/aitour27-LTG242-knowledge-retrieval-for-ai-agents-with-foundry-iq) |
-| LTG243 | [Fabric IQ: From rows to reliable answers](https://github.com/microsoft/aitour27-LTG243-fabric-iq-from-rows-to-reliable-answers) |
+| BRK240 | [Building context-aware agents with Microsoft IQ](https://github.com/microsoft/frontiertour27-BRK240-building-context-aware-agents-with-microsoft-iq) |
+| ILL344 | [Turning data into agent-ready knowledge with Microsoft IQ](https://github.com/microsoft/frontiertour27-ILL344-turning-data-into-agent-ready-knowledge-with-microsoft-iq) |
+| LTG242 | [Knowledge retrieval for AI agents with Foundry IQ](https://github.com/microsoft/frontiertour27-LTG242-knowledge-retrieval-for-ai-agents-with-foundry-iq) |
+| LTG243 | [Fabric IQ: From rows to reliable answers](https://github.com/microsoft/frontiertour27-LTG243-fabric-iq-from-rows-to-reliable-answers) |
 
 ### Core
 
@@ -57,42 +57,41 @@ Browse session repos by conversation (topic) below. Click a repo to get the code
 
 | Code | Repo |
 |------|------|
-| BRK280 | [From legacy to AI-ready with agentic modernization on Azure](https://github.com/microsoft/aitour27-BRK280-from-legacy-to-ai-ready-with-agentic-modernization-on-azure) |
-| LTG281 | [Microsoft Virtual Datacenter Tour](https://github.com/microsoft/aitour27-LTG281-microsoft-virtual-datacenter-tour) |
-| LTG282 | [Agentic Ops with GitHub Copilot App](https://github.com/microsoft/aitour27-LTG282-agentic-ops-with-github-copilot-app) |
+| BRK280 | [From legacy to AI-ready with agentic modernization on Azure](https://github.com/microsoft/frontiertour27-BRK280-from-legacy-to-ai-ready-with-agentic-modernization-on-azure) |
+| LTG282 | [Agentic Ops with GitHub Copilot App](https://github.com/microsoft/frontiertour27-LTG282-agentic-ops-with-github-copilot-app) |
 
 #### Build a unified, governed data and AI estate
 
 | Code | Repo |
 |------|------|
-| BRK390 | [Building AI applications with Microsoft Databases and Fabric](https://github.com/microsoft/aitour27-BRK390-building-ai-applications-with-microsoft-databases-and-fabric) |
-| ILL392 | [Build agentic AI Postgres apps on Azure HorizonDB](https://github.com/microsoft/aitour27-ILL392-build-agentic-ai-postgres-apps-on-azure-horizondb) |
-| LTG291 | [Turn your data into production apps with Rayfin](https://github.com/microsoft/aitour27-LTG291-turn-your-data-into-production-apps-with-rayfin) |
+| BRK390 | [Building AI applications with Microsoft Databases and Fabric](https://github.com/microsoft/frontiertour27-BRK390-building-ai-applications-with-microsoft-databases-and-fabric) |
+| ILL392 | [Build agentic AI Postgres apps on Azure HorizonDB](https://github.com/microsoft/frontiertour27-ILL392-build-agentic-ai-postgres-apps-on-azure-horizondb) |
+| LTG291 | [Turn your data into production apps with Rayfin](https://github.com/microsoft/frontiertour27-LTG291-turn-your-data-into-production-apps-with-rayfin) |
 
-## Browse sessions with the AI Tour skill
+## Browse sessions with the Frontier Tour skill
 
-Install the AI Tour plugin in your assistant. It includes the AI Tour skill and
-connects Microsoft Learn MCP—no separate setup is needed.
+Install the Frontier Tour plugin in your assistant. It includes the Frontier
+Tour skill and connects Microsoft Learn MCP—no separate setup is needed.
 
 **GitHub Copilot CLI:** Install the plugin, restart Copilot, then ask it a
 question:
 
 ```text
-/plugin install microsoft/aitour27-resource-center
+/plugin install microsoft/frontiertour27-resource-center
 /restart
 ```
 
 **Claude Code:** Add the marketplace and install the plugin:
 
 ```text
-/plugin marketplace add https://github.com/microsoft/aitour27-resource-center.git
-/plugin install microsoft-aitour-2027@microsoft-aitour-2027-marketplace
+/plugin marketplace add https://github.com/microsoft/frontiertour27-resource-center.git
+/plugin install microsoft-frontiertour-2027@microsoft-frontiertour-2027-marketplace
 ```
 
 After installing, try these prompts:
 
-1. "What cities are included in AI Tour?"
-2. "Find AI Tour sessions in Singapore that fit my project."
+1. "What cities are included in Frontier Tour?"
+2. "Find Frontier Tour sessions in Singapore that fit my project."
 
 If you're already using Copilot in this repository, the skill is available
 without installing the plugin. Open Copilot Chat or Copilot CLI and ask the
@@ -113,10 +112,10 @@ schedule. Confirm session times and registration at
 
 | Resources | Links | Description |
 |:----------|:------|:-------------|
-| AI Tour 2027 Resource Center | [https://aka.ms/aitour27-resource-center](https://aka.ms/aitour27-resource-center) | Links to all repos for AI Tour 27 sessions |
+| Frontier Tour 2027 Resource Center | [https://aka.ms/FrontierTour27](https://aka.ms/FrontierTour27) | Links to all repos for Frontier Tour 27 sessions |
 | Microsoft Foundry Community Discord | [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/Pwpvf3TWaw)](https://aka.ms/MicrosoftFoundryDiscord-AITour27) | Connect with the Microsoft Foundry Community! |
 | Microsoft Foundry Developer Forum | [![Microsoft Foundry Developer Forum](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=adff2f&logoColor=fff)](https://aka.ms/MicrosoftFoundryForum-AITour27) | Join the Microsoft Foundry Developer Forum! |
-| Skilling at Microsoft | [Skilling-at-Microsoft.md](Skilling-at-Microsoft.md) | Skilling and learning paths to keep growing after AI Tour |
+| Skilling at Microsoft | [Skilling-at-Microsoft.md](Skilling-at-Microsoft.md) | Skilling and learning paths to keep growing after Frontier Tour |
 
 ## Responsible AI
 

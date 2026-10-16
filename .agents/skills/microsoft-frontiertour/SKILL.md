@@ -1,17 +1,17 @@
 ---
-name: microsoft-aitour
+name: microsoft-frontiertour
 description: >-
-  Helps Microsoft AI Tour 2027 attendees find sessions relevant to their
+  Helps Microsoft Frontier Tour 2027 attendees find sessions relevant to their
   interests or project stack, explore session resources, and build a preferred
-  session list. Use for AI Tour session discovery, session codes, city
+  session list. Use for Frontier Tour session discovery, session codes, city
   availability, or registration questions.
 license: MIT
 metadata:
-  author: Microsoft AI Tour team
+  author: Microsoft Frontier Tour team
   version: "1.2"
 ---
 
-# Microsoft AI Tour 2027
+# Microsoft Frontier Tour 2027
 
 Help attendees discover sessions, explore published session resources, and
 prepare a preferred-session list. The catalog is a snapshot of technical
@@ -31,7 +31,7 @@ data more current. If the fetch fails, is blocked, or returns an unexpected
 payload, look for `session-catalog.json` at the current project repository root.
 If absent, check the resource-center repository root three directory levels
 above this skill directory, but only when the skill is still inside that
-repository's `.agents/skills/microsoft-aitour/` directory. Do not assume an
+repository's `.agents/skills/microsoft-frontiertour/` directory. Do not assume an
 installed skill folder includes the catalog, or search unrelated directories.
 
 Accept either source only if it is a JSON object with `schema_version: 1`,
@@ -75,7 +75,7 @@ language, ask which language they want.
 
 For a request to match sessions to a project stack, inspect project files only
 when the attendee asks you to look at their project or stack. Otherwise ask
-briefly about their interests, role, or what they want to get from the tour.
+briefly about their interests, role, or what they want to get from Frontier Tour.
 Business attendees may prefer outcomes and use cases over implementation
 details.
 
@@ -134,7 +134,7 @@ naming pattern.
 | Utrecht | https://aitour.microsoft.com/flow/microsoft/utrecht27/citylanding/page/cityhome |
 
 If the attendee's city is not listed above, send them to the
-[AI Tour city directory](https://aitour.microsoft.com/flow/microsoft/aitour27/citydirectory/page/citydirectory)
+[Frontier Tour city directory](https://aitour.microsoft.com/flow/microsoft/aitour27/citydirectory/page/citydirectory)
 and tell them to select **Notify me** for that city if the option appears.
 They can also keep an eye on https://aitour.microsoft.com/ for updates. Do not
 claim that a city is open for registration based only on catalog availability.
