@@ -58,7 +58,7 @@ Browse session repos by conversation (topic) below. Click a repo to get the code
 | Code | Repo |
 |------|------|
 | BRK280 | [From legacy to AI-ready with agentic modernization on Azure](https://github.com/microsoft/frontiertour27-BRK280-from-legacy-to-ai-ready-with-agentic-modernization-on-azure) |
-| LTG282 | [Agentic Ops with GitHub Copilot App](https://aka.ms/ft27/LTG282)
+| LTG282 | [Agentic Ops with GitHub Copilot App](https://github.com/microsoft/frontiertour27-LTG282-agentic-ops-with-github-copilot-app) |
 
 #### Build a unified, governed data and AI estate
 
